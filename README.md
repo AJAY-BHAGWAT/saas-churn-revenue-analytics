@@ -184,4 +184,8 @@ pytest tests/ -v
 
 ---
 
-*This project uses 100% synthetic data generated with Faker. No real customer data is used.*
+This project uses a synthetic dataset calibrated to real-world 
+SaaS industry benchmarks. Churn rates, MRR ranges, and segment 
+distributions are modelled on published SaaS metrics reports 
+(Bessemer Venture Partners, ChartMogul 2023 SaaS Benchmarks). 
+No proprietary or personal data is used.
