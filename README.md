@@ -179,8 +179,8 @@ pytest tests/ -v
 
 ## Author
 
-**Ajay** | Aspiring Data Analyst  
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [GitHub](https://github.com/YOUR_USERNAME)
+**Ajay** |  
+[LinkedIn](https://linkedin.com/in/ajay-bhagwat07) · [GitHub](https://github.com/AJAY-BHAGWAT)
 
 ---
 
