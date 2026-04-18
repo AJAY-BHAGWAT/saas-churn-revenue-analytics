@@ -1,0 +1,1001 @@
+customer_id,company_name,segment,plan,mrr,signup_date,churn_date,status,country,industry
+CUST-0001,"Cunningham, Singleton and Fernandez",Mid-Market,Basic,317.48,2023-10-24,2024-03-16,churned,United States,Fintech
+CUST-0002,Miller Inc,Mid-Market,Enterprise,322.22,2023-08-01,2023-12-28,churned,Netherlands,SaaS
+CUST-0003,Garcia and Sons,Mid-Market,Pro,800.5,2023-03-30,,active,France,HR Tech
+CUST-0004,Powell-Underwood,Mid-Market,Basic,865.79,2023-09-10,2024-11-25,churned,Australia,Logistics
+CUST-0005,Hubbard and Sons,SMB,Basic,102.83,2023-09-17,2023-12-08,churned,Australia,Fintech
+CUST-0006,Hawkins-Farmer,SMB,Enterprise,134.99,2024-04-12,2024-05-23,churned,Singapore,Fintech
+CUST-0007,Sparks and Sons,Freemium,Enterprise,18.55,2023-09-27,2024-12-24,churned,Netherlands,Logistics
+CUST-0008,Gray Ltd,Mid-Market,Pro,792.5,2023-06-05,2024-02-23,churned,United States,Healthcare
+CUST-0009,"Wood, Shannon and Mckee",Enterprise,Pro,2520.5,2024-07-26,,active,Germany,Logistics
+CUST-0010,"Huynh, Navarro and Bell",SMB,Enterprise,216.54,2023-09-21,2024-10-04,churned,United States,E-commerce
+CUST-0011,Lucas-Hall,Mid-Market,Pro,471.12,2023-06-29,,active,UAE,Healthcare
+CUST-0012,Chase Ltd,Mid-Market,Basic,889.15,2024-04-26,,active,United Kingdom,Logistics
+CUST-0013,Anderson PLC,SMB,Enterprise,65.55,2023-11-02,,active,Canada,Healthcare
+CUST-0014,Dunn-Jones,Mid-Market,Pro,576.55,2023-06-08,,active,Germany,EdTech
+CUST-0015,Williams Group,SMB,Enterprise,235.25,2024-07-19,2024-12-05,churned,Australia,Logistics
+CUST-0016,Sandoval LLC,SMB,Basic,298.38,2024-10-05,2024-11-09,churned,United States,E-commerce
+CUST-0017,Nicholson Inc,Mid-Market,Pro,853.66,2024-03-03,2024-05-04,churned,Australia,HR Tech
+CUST-0018,Cruz LLC,Mid-Market,Basic,978.78,2024-04-01,,active,United States,EdTech
+CUST-0019,"Mullins, Jones and Martin",Enterprise,Basic,2360.7,2023-01-24,,active,Singapore,SaaS
+CUST-0020,"Johnson, Brooks and Rodriguez",Freemium,Basic,42.92,2024-03-25,2024-08-30,churned,UAE,Fintech
+CUST-0021,Walter-Foley,Enterprise,Enterprise,2193.78,2023-05-05,,active,France,E-commerce
+CUST-0022,Spencer Group,SMB,Enterprise,89.39,2024-06-30,,active,United Kingdom,Logistics
+CUST-0023,Smith Inc,Mid-Market,Pro,378.2,2024-08-05,2024-12-19,churned,France,SaaS
+CUST-0024,"Jackson, Lewis and Perkins",SMB,Basic,190.84,2023-04-02,2024-09-10,churned,UAE,E-commerce
+CUST-0025,Dominguez-Mata,SMB,Enterprise,167.82,2023-05-05,2024-03-01,churned,Netherlands,Marketing
+CUST-0026,Sherman-Robinson,Freemium,Enterprise,45.52,2024-11-22,2024-12-25,churned,India,Marketing
+CUST-0027,Walter-Garcia,Freemium,Pro,31.84,2023-08-09,2024-05-29,churned,United States,Healthcare
+CUST-0028,Melton and Sons,SMB,Enterprise,133.52,2023-06-25,2024-03-16,churned,France,SaaS
+CUST-0029,Maldonado Ltd,SMB,Pro,206.78,2023-12-18,2024-02-02,churned,United States,Healthcare
+CUST-0030,"Davis, Jones and Collier",SMB,Enterprise,170.35,2023-09-15,2024-10-19,churned,Netherlands,HR Tech
+CUST-0031,Mcbride LLC,SMB,Basic,167.24,2023-06-09,2023-10-13,churned,Australia,Logistics
+CUST-0032,"Stanley, Robinson and Smith",SMB,Basic,165.76,2023-05-15,2023-09-22,churned,Australia,Logistics
+CUST-0033,Parker-Warren,Enterprise,Enterprise,1437.08,2024-07-21,,active,Singapore,E-commerce
+CUST-0034,Gordon and Sons,SMB,Pro,118.64,2023-11-18,2024-01-25,churned,UAE,Fintech
+CUST-0035,Boyer-Johnson,SMB,Basic,298.82,2023-07-21,2024-12-28,churned,France,E-commerce
+CUST-0036,"Mcgee, Ray and Rodriguez",SMB,Basic,169.34,2024-10-25,,active,Germany,Marketing
+CUST-0037,Raymond LLC,SMB,Pro,146.61,2024-11-15,,active,India,Marketing
+CUST-0038,Bender-Jackson,Mid-Market,Enterprise,810.62,2024-02-22,,active,Singapore,E-commerce
+CUST-0039,Edwards-Cortez,SMB,Enterprise,103.43,2024-03-11,2024-05-11,churned,Canada,SaaS
+CUST-0040,Butler LLC,SMB,Enterprise,168.2,2023-10-22,,active,Germany,SaaS
+CUST-0041,Ellis Ltd,Freemium,Basic,3.93,2024-05-12,2024-11-10,churned,France,Marketing
+CUST-0042,Robinson LLC,SMB,Basic,271.57,2024-05-20,2024-11-18,churned,Netherlands,Fintech
+CUST-0043,Steele-Vargas,SMB,Basic,194.92,2023-02-28,2023-12-22,churned,Canada,Healthcare
+CUST-0044,Manning-Norman,SMB,Pro,81.72,2024-05-25,2024-10-19,churned,United States,SaaS
+CUST-0045,Keith LLC,Mid-Market,Basic,997.92,2023-02-20,,active,UAE,Healthcare
+CUST-0046,Johnson and Sons,Mid-Market,Basic,392.59,2023-12-07,2024-02-10,churned,Canada,EdTech
+CUST-0047,Garcia-Scott,SMB,Enterprise,257.44,2023-11-19,2024-10-27,churned,UAE,SaaS
+CUST-0048,"Wright, Boyd and Williams",Mid-Market,Basic,687.67,2024-08-13,,active,Germany,EdTech
+CUST-0049,"Robinson, Brown and Johnson",SMB,Pro,75.76,2024-04-03,2024-07-11,churned,Netherlands,Healthcare
+CUST-0050,Smith and Sons,Mid-Market,Pro,442.31,2024-06-29,,active,UAE,HR Tech
+CUST-0051,"Salinas, Perry and Cooper",SMB,Pro,276.04,2023-04-29,2024-08-04,churned,United Kingdom,SaaS
+CUST-0052,Thompson Inc,SMB,Basic,81.7,2024-06-21,,active,Singapore,Marketing
+CUST-0053,Wright-Stevenson,Mid-Market,Enterprise,378.2,2024-10-14,,active,Germany,SaaS
+CUST-0054,Mendoza Group,Enterprise,Basic,3330.04,2024-02-01,,active,United Kingdom,EdTech
+CUST-0055,Simpson Ltd,SMB,Basic,282.27,2024-09-20,,active,Canada,Healthcare
+CUST-0056,"Chambers, Hall and Estrada",Mid-Market,Pro,766.19,2023-02-15,2024-10-10,churned,Netherlands,E-commerce
+CUST-0057,Oliver-Taylor,Freemium,Basic,11.6,2024-04-15,2024-12-05,churned,Australia,SaaS
+CUST-0058,Villanueva-Wilson,SMB,Enterprise,280.12,2024-03-14,2024-11-09,churned,France,EdTech
+CUST-0059,Scott-Ramos,SMB,Pro,224.32,2023-12-12,2024-01-30,churned,France,Healthcare
+CUST-0060,"Liu, Smith and Holden",Enterprise,Basic,2841.21,2023-01-22,,active,France,SaaS
+CUST-0061,Owens PLC,Mid-Market,Pro,578.53,2023-07-23,2023-09-26,churned,Canada,Marketing
+CUST-0062,Ballard-Davis,Mid-Market,Basic,889.72,2024-06-15,2024-07-22,churned,India,E-commerce
+CUST-0063,Hendricks PLC,Mid-Market,Pro,987.5,2023-05-07,2024-08-23,churned,Canada,Marketing
+CUST-0064,"Rodriguez, Rogers and Baker",Mid-Market,Basic,657.48,2023-02-09,2024-10-21,churned,India,SaaS
+CUST-0065,Greer-Barnes,Mid-Market,Enterprise,301.18,2023-04-11,,active,France,Logistics
+CUST-0066,Campbell Group,SMB,Enterprise,286.22,2024-10-25,,active,Canada,Fintech
+CUST-0067,Williams Inc,Mid-Market,Pro,509.93,2023-02-05,2024-04-28,churned,Australia,EdTech
+CUST-0068,"Clark, Ward and Brown",Mid-Market,Pro,434.1,2024-09-22,,active,Germany,EdTech
+CUST-0069,Moreno-Knapp,SMB,Pro,257.43,2024-10-09,2024-11-21,churned,Netherlands,Logistics
+CUST-0070,Diaz and Sons,Mid-Market,Enterprise,609.07,2023-09-03,2024-06-01,churned,Germany,Fintech
+CUST-0071,Lopez PLC,SMB,Basic,214.96,2023-10-18,2024-01-03,churned,India,Healthcare
+CUST-0072,Smith and Sons,Enterprise,Enterprise,1589.42,2024-01-29,2024-10-28,churned,United States,HR Tech
+CUST-0073,Rojas-Kennedy,SMB,Pro,206.44,2024-06-07,2024-10-13,churned,Australia,Healthcare
+CUST-0074,Brock-Calhoun,SMB,Basic,220.91,2024-09-13,,active,Australia,Healthcare
+CUST-0075,Blair Group,SMB,Enterprise,288.49,2024-08-11,2024-09-16,churned,France,Fintech
+CUST-0076,Rogers LLC,Mid-Market,Enterprise,860.19,2023-11-14,,active,Netherlands,Logistics
+CUST-0077,Cox-Ford,Freemium,Pro,43.68,2024-06-15,2024-11-21,churned,UAE,HR Tech
+CUST-0078,"Hamilton, Fields and Barber",Enterprise,Pro,3974.62,2024-04-02,,active,France,EdTech
+CUST-0079,"Moore, Taylor and Zimmerman",Enterprise,Pro,3085.2,2023-01-13,,active,Singapore,Fintech
+CUST-0080,Green LLC,Mid-Market,Basic,463.91,2023-10-21,2024-08-22,churned,Germany,E-commerce
+CUST-0081,Thomas-Scott,SMB,Pro,222.49,2024-06-15,2024-07-31,churned,Australia,Logistics
+CUST-0082,"Adams, Hicks and Johnson",Mid-Market,Pro,590.63,2023-04-05,2024-07-08,churned,Netherlands,SaaS
+CUST-0083,Parker LLC,Enterprise,Basic,4062.38,2023-02-10,,active,Canada,EdTech
+CUST-0084,Holmes-Roberts,Enterprise,Pro,4413.79,2024-06-10,,active,UAE,Healthcare
+CUST-0085,Choi Inc,Mid-Market,Pro,490.78,2023-08-10,,active,Canada,Marketing
+CUST-0086,Berger Group,Mid-Market,Enterprise,887.51,2024-02-12,,active,UAE,SaaS
+CUST-0087,Alexander-Johnson,Freemium,Enterprise,29.0,2024-01-06,2024-03-18,churned,Australia,E-commerce
+CUST-0088,Perkins and Sons,Enterprise,Pro,1726.92,2024-10-19,,active,France,HR Tech
+CUST-0089,Fisher Group,SMB,Pro,239.31,2024-02-09,2024-10-11,churned,United States,HR Tech
+CUST-0090,Moss-Chandler,SMB,Pro,183.85,2024-05-20,,active,France,Fintech
+CUST-0091,"White, White and Rogers",Enterprise,Basic,3607.02,2024-06-14,,active,France,SaaS
+CUST-0092,Gutierrez PLC,Mid-Market,Basic,466.74,2024-10-04,,active,Netherlands,Healthcare
+CUST-0093,Bond and Sons,Mid-Market,Basic,479.11,2023-06-02,2023-10-27,churned,India,Fintech
+CUST-0094,Hammond PLC,Mid-Market,Pro,949.29,2023-06-10,,active,Australia,Healthcare
+CUST-0095,Kennedy-Meza,SMB,Enterprise,221.65,2024-03-16,2024-06-06,churned,India,Fintech
+CUST-0096,Lane-Stevenson,Enterprise,Pro,3263.73,2024-06-13,2024-11-26,churned,Canada,Fintech
+CUST-0097,"Alexander, Cooper and Saunders",Mid-Market,Pro,538.52,2023-06-30,,active,United States,Marketing
+CUST-0098,Jackson-Henry,Freemium,Pro,31.14,2023-03-31,2023-10-03,churned,Germany,EdTech
+CUST-0099,Mitchell-Murray,Mid-Market,Pro,942.81,2024-10-07,,active,Australia,EdTech
+CUST-0100,Moss Group,SMB,Pro,110.37,2023-11-24,,active,Singapore,Healthcare
+CUST-0101,Moore LLC,Enterprise,Pro,3279.4,2024-07-18,,active,United Kingdom,HR Tech
+CUST-0102,Wilson-Wilson,Enterprise,Pro,1727.36,2024-09-20,,active,Canada,EdTech
+CUST-0103,Sharp and Sons,Enterprise,Basic,3804.74,2023-08-29,,active,UAE,Healthcare
+CUST-0104,"Hamilton, White and Terry",SMB,Basic,229.02,2023-09-15,2024-11-06,churned,Singapore,HR Tech
+CUST-0105,Wyatt and Sons,SMB,Enterprise,53.31,2023-06-11,2024-08-28,churned,France,EdTech
+CUST-0106,Smith LLC,Mid-Market,Pro,557.95,2024-05-04,,active,Australia,Logistics
+CUST-0107,Shea-Santos,SMB,Basic,162.44,2023-10-09,2024-03-05,churned,France,Logistics
+CUST-0108,Reed-Payne,SMB,Basic,182.97,2023-07-15,2023-11-16,churned,France,HR Tech
+CUST-0109,Turner-Miller,SMB,Basic,196.4,2023-06-24,2024-05-08,churned,France,EdTech
+CUST-0110,"Blanchard, Walker and Kirby",SMB,Basic,93.86,2023-11-11,2024-09-09,churned,India,SaaS
+CUST-0111,Green-Martinez,Freemium,Enterprise,27.11,2023-07-06,2023-12-12,churned,Singapore,Fintech
+CUST-0112,Mcintosh-Price,Enterprise,Pro,3296.26,2023-10-25,,active,Canada,E-commerce
+CUST-0113,"Haas, Robbins and Wheeler",Freemium,Basic,12.37,2024-04-07,2024-06-05,churned,Australia,HR Tech
+CUST-0114,"Howell, Bradshaw and Wiley",SMB,Enterprise,206.36,2024-07-05,2024-09-11,churned,India,Fintech
+CUST-0115,Skinner-Cross,Freemium,Enterprise,5.8,2023-06-11,2024-02-27,churned,Australia,HR Tech
+CUST-0116,Perez-Rivera,Freemium,Pro,14.57,2023-02-28,2024-06-11,churned,Netherlands,SaaS
+CUST-0117,Benson-Smith,Mid-Market,Basic,817.32,2024-09-04,,active,France,EdTech
+CUST-0118,Nelson-Savage,Mid-Market,Basic,409.78,2023-04-28,2023-08-12,churned,United Kingdom,Marketing
+CUST-0119,"Sims, Price and Rodriguez",Mid-Market,Pro,715.07,2023-07-04,2024-03-27,churned,India,HR Tech
+CUST-0120,"Bell, Gilbert and Parker",SMB,Enterprise,107.36,2024-05-27,2024-12-03,churned,France,Marketing
+CUST-0121,Mann and Sons,SMB,Basic,105.2,2023-07-04,2024-05-01,churned,United States,SaaS
+CUST-0122,"Lozano, Gaines and Williams",SMB,Pro,125.9,2023-08-28,2024-07-14,churned,Singapore,Fintech
+CUST-0123,Johnson Group,Mid-Market,Enterprise,512.56,2023-07-07,2024-05-10,churned,UAE,HR Tech
+CUST-0124,Owens and Sons,SMB,Enterprise,198.51,2024-02-21,,active,Canada,EdTech
+CUST-0125,Silva-Anderson,SMB,Enterprise,106.23,2023-10-11,2024-08-30,churned,United Kingdom,EdTech
+CUST-0126,Hayden-Johnson,Mid-Market,Enterprise,833.41,2023-07-21,2024-05-11,churned,Singapore,EdTech
+CUST-0127,Cantu and Sons,SMB,Basic,195.33,2024-04-09,2024-09-11,churned,Singapore,Logistics
+CUST-0128,"Page, Elliott and Richardson",SMB,Pro,129.26,2024-09-14,2024-11-03,churned,Australia,HR Tech
+CUST-0129,Stephenson-Kline,SMB,Basic,285.3,2023-02-07,2024-09-22,churned,Singapore,Fintech
+CUST-0130,Wilson-Griffin,SMB,Pro,129.82,2024-10-13,,active,UAE,SaaS
+CUST-0131,"Harris, Johnson and Perez",Mid-Market,Enterprise,679.27,2024-01-30,2024-06-04,churned,Canada,HR Tech
+CUST-0132,"Johnson, Rodriguez and Ramirez",Mid-Market,Basic,831.23,2024-01-24,2024-11-30,churned,India,HR Tech
+CUST-0133,Hobbs-Nicholson,Enterprise,Enterprise,2938.85,2023-06-07,2024-03-08,churned,Germany,EdTech
+CUST-0134,Wilson-Hardin,Mid-Market,Pro,686.02,2023-06-03,2023-10-27,churned,United States,E-commerce
+CUST-0135,Sutton Inc,Mid-Market,Pro,800.91,2023-03-11,,active,Australia,HR Tech
+CUST-0136,Pratt-Garcia,Freemium,Basic,11.94,2024-10-22,2024-12-15,churned,Netherlands,E-commerce
+CUST-0137,Wilson Group,Enterprise,Pro,2104.99,2023-03-03,,active,Canada,EdTech
+CUST-0138,Lewis LLC,Enterprise,Enterprise,2131.36,2024-03-04,,active,Netherlands,HR Tech
+CUST-0139,"Mcknight, Vargas and Jimenez",Enterprise,Pro,2786.19,2023-10-18,,active,UAE,Marketing
+CUST-0140,Rivera Ltd,Mid-Market,Enterprise,524.92,2024-03-14,2024-08-13,churned,Australia,Healthcare
+CUST-0141,Rios-Lyons,Enterprise,Pro,2643.1,2024-09-02,,active,Australia,Marketing
+CUST-0142,"Rodgers, Herrera and Baldwin",Freemium,Pro,38.83,2024-07-16,2024-09-22,churned,United Kingdom,E-commerce
+CUST-0143,"Jefferson, Robinson and Quinn",Mid-Market,Pro,712.54,2024-08-31,,active,United States,HR Tech
+CUST-0144,"Ray, Mills and Keith",SMB,Basic,85.04,2023-04-04,,active,United States,HR Tech
+CUST-0145,Hall and Sons,Enterprise,Pro,2060.09,2023-09-27,,active,United States,Logistics
+CUST-0146,Thompson-Hunt,Enterprise,Pro,4437.37,2024-06-23,,active,Singapore,SaaS
+CUST-0147,"Ross, Henderson and Hayden",Mid-Market,Pro,464.1,2023-02-01,,active,France,Fintech
+CUST-0148,Henry LLC,SMB,Pro,73.61,2024-05-23,2024-07-17,churned,Germany,EdTech
+CUST-0149,Harris-Bautista,Freemium,Pro,2.25,2023-01-12,2023-12-08,churned,Canada,Marketing
+CUST-0150,Nichols-Gregory,SMB,Basic,181.79,2024-06-13,2024-08-28,churned,Germany,Fintech
+CUST-0151,"Young, Lewis and West",Mid-Market,Pro,567.4,2023-04-28,,active,Netherlands,E-commerce
+CUST-0152,Bryant Inc,SMB,Basic,208.48,2023-10-26,2024-10-31,churned,Singapore,EdTech
+CUST-0153,David Inc,Mid-Market,Enterprise,410.42,2024-03-25,2024-07-21,churned,India,Marketing
+CUST-0154,"Snyder, Bates and Holder",Mid-Market,Pro,619.33,2023-03-15,2024-05-11,churned,United States,Healthcare
+CUST-0155,Webb-Massey,SMB,Pro,138.74,2024-05-14,2024-12-09,churned,United Kingdom,Marketing
+CUST-0156,Perez LLC,SMB,Enterprise,190.48,2024-06-11,2024-07-23,churned,Singapore,EdTech
+CUST-0157,"Cooper, Payne and Bautista",Enterprise,Basic,1920.47,2024-05-29,,active,France,EdTech
+CUST-0158,Harrison-Buchanan,Mid-Market,Basic,803.93,2024-11-01,,active,United States,SaaS
+CUST-0159,Wilson-Frank,SMB,Basic,159.21,2024-10-12,2024-12-27,churned,United States,EdTech
+CUST-0160,"Hill, Turner and Cooper",SMB,Pro,152.88,2024-07-01,2024-12-16,churned,UAE,EdTech
+CUST-0161,Harrison Inc,Enterprise,Pro,2027.88,2024-02-29,,active,India,Logistics
+CUST-0162,Anderson-Donovan,Enterprise,Basic,2873.33,2024-10-12,2024-12-29,churned,Australia,Logistics
+CUST-0163,"Mendez, Shaw and Montoya",SMB,Pro,147.64,2023-02-14,2023-07-20,churned,Canada,EdTech
+CUST-0164,Jenkins-Wilson,Mid-Market,Basic,874.87,2024-02-01,,active,France,HR Tech
+CUST-0165,Aguirre Inc,SMB,Basic,270.06,2023-01-29,2024-11-13,churned,United States,HR Tech
+CUST-0166,Farrell-Myers,Freemium,Basic,14.81,2023-04-01,2023-09-21,churned,United Kingdom,EdTech
+CUST-0167,Palmer-Calhoun,Freemium,Basic,5.69,2024-05-27,2024-11-10,churned,Australia,HR Tech
+CUST-0168,Douglas Group,SMB,Pro,286.35,2023-08-03,2024-06-04,churned,Netherlands,E-commerce
+CUST-0169,"Hernandez, Martinez and Nelson",Enterprise,Enterprise,3619.69,2024-02-09,,active,Australia,EdTech
+CUST-0170,Jones LLC,SMB,Pro,141.63,2024-01-17,2024-06-15,churned,United States,Logistics
+CUST-0171,Greene Group,Mid-Market,Pro,983.51,2023-07-02,2024-09-11,churned,France,Fintech
+CUST-0172,"Reid, Herman and Walsh",Freemium,Enterprise,40.39,2024-08-16,2024-10-12,churned,Netherlands,SaaS
+CUST-0173,"Watkins, Villegas and Monroe",SMB,Enterprise,132.38,2023-12-12,,active,France,Fintech
+CUST-0174,"Mccullough, Sosa and Curry",Enterprise,Basic,3216.83,2023-04-17,,active,Canada,E-commerce
+CUST-0175,Walker Ltd,Enterprise,Basic,3383.93,2023-07-21,,active,Germany,EdTech
+CUST-0176,Shelton and Sons,Enterprise,Basic,1439.71,2024-09-20,,active,United Kingdom,Logistics
+CUST-0177,Patterson-Williams,Enterprise,Basic,1951.73,2023-06-15,,active,India,SaaS
+CUST-0178,"Adams, Daniels and Silva",SMB,Pro,154.24,2023-08-21,2023-10-22,churned,Singapore,Logistics
+CUST-0179,Howard PLC,Mid-Market,Enterprise,376.23,2024-04-11,,active,United Kingdom,EdTech
+CUST-0180,Robertson-Hopkins,Mid-Market,Pro,973.85,2023-06-28,2024-11-29,churned,Australia,Fintech
+CUST-0181,"Mcclure, Floyd and Moss",Mid-Market,Pro,935.88,2024-11-09,2024-12-11,churned,Netherlands,E-commerce
+CUST-0182,Dominguez Ltd,SMB,Pro,117.75,2023-06-04,2024-05-31,churned,Netherlands,EdTech
+CUST-0183,Harrington Group,Mid-Market,Enterprise,723.19,2024-06-20,2024-08-18,churned,UAE,Healthcare
+CUST-0184,"Murray, Elliott and Hayes",SMB,Pro,271.02,2023-03-22,2024-07-28,churned,Australia,Fintech
+CUST-0185,"Edwards, Schmitt and Brennan",SMB,Enterprise,127.13,2023-02-01,2023-08-06,churned,Singapore,Fintech
+CUST-0186,Mora-Matthews,SMB,Enterprise,70.34,2023-11-06,2024-12-21,churned,Canada,E-commerce
+CUST-0187,Price-Cohen,Mid-Market,Pro,709.94,2023-10-23,,active,United States,Marketing
+CUST-0188,Blair-Snyder,SMB,Pro,215.34,2024-11-15,2024-12-16,churned,Netherlands,EdTech
+CUST-0189,Freeman-King,SMB,Basic,193.48,2023-04-28,2024-10-02,churned,United States,Logistics
+CUST-0190,Moore-Preston,Enterprise,Enterprise,2470.24,2023-05-06,,active,France,Marketing
+CUST-0191,Casey-Fisher,Enterprise,Enterprise,4898.19,2023-06-02,,active,UAE,SaaS
+CUST-0192,Rose-Davila,Mid-Market,Basic,759.82,2023-09-24,,active,Germany,EdTech
+CUST-0193,"Cook, Phillips and Smith",Mid-Market,Basic,515.98,2023-12-17,2024-01-19,churned,Germany,Marketing
+CUST-0194,"Graham, Walls and Oconnell",SMB,Basic,234.24,2023-01-26,,active,UAE,Healthcare
+CUST-0195,Graham-Thompson,SMB,Enterprise,162.41,2023-11-22,2024-05-29,churned,Canada,Fintech
+CUST-0196,Frye LLC,Enterprise,Basic,1622.32,2024-10-27,,active,United States,EdTech
+CUST-0197,Ford Ltd,SMB,Pro,155.0,2024-01-21,2024-09-19,churned,France,Fintech
+CUST-0198,"Bates, Flores and Mahoney",SMB,Pro,76.72,2024-08-04,2024-11-17,churned,UAE,EdTech
+CUST-0199,Estrada Ltd,SMB,Basic,147.82,2024-03-19,2024-04-21,churned,India,Healthcare
+CUST-0200,Kelly-Romero,Enterprise,Basic,4056.64,2024-10-10,,active,United Kingdom,HR Tech
+CUST-0201,"Blackburn, Dyer and Zavala",Mid-Market,Basic,422.81,2023-11-19,2024-12-13,churned,UAE,Logistics
+CUST-0202,"Shepherd, Stone and White",SMB,Pro,264.44,2024-10-10,2024-11-10,churned,United States,Logistics
+CUST-0203,Potter-Thomas,Mid-Market,Pro,700.81,2023-06-08,,active,India,Fintech
+CUST-0204,Lee-Ross,SMB,Pro,290.55,2023-01-24,2024-11-16,churned,Canada,Fintech
+CUST-0205,"Martin, Thompson and Good",SMB,Enterprise,75.47,2024-07-26,2024-12-05,churned,United States,Marketing
+CUST-0206,Smith-Carter,Enterprise,Basic,3983.22,2024-07-06,,active,United States,Fintech
+CUST-0207,"Morgan, Adkins and Young",Mid-Market,Pro,435.54,2023-07-26,,active,Germany,Healthcare
+CUST-0208,"Valentine, Cantrell and Garner",SMB,Enterprise,112.99,2023-10-23,2024-02-08,churned,United States,E-commerce
+CUST-0209,"Gibson, Roach and Lucero",Freemium,Enterprise,30.77,2024-10-06,2024-12-11,churned,Singapore,Logistics
+CUST-0210,Mcdonald Group,Enterprise,Basic,3508.87,2023-12-30,,active,Singapore,HR Tech
+CUST-0211,Blake-Barrera,Mid-Market,Pro,856.63,2023-11-15,,active,UAE,Fintech
+CUST-0212,"Alvarado, Mitchell and Poole",SMB,Basic,161.98,2023-02-07,2023-12-27,churned,United States,Marketing
+CUST-0213,"Peterson, Wilson and Hoffman",Mid-Market,Basic,687.47,2024-03-05,,active,Singapore,Healthcare
+CUST-0214,"Walton, Mcguire and Ramos",SMB,Pro,167.91,2024-08-23,2024-09-29,churned,United States,Logistics
+CUST-0215,Brown PLC,Freemium,Basic,4.13,2023-01-23,2023-04-03,churned,Singapore,HR Tech
+CUST-0216,"Kelly, Hamilton and Flores",Mid-Market,Pro,726.25,2024-08-18,2024-10-23,churned,Australia,Logistics
+CUST-0217,Li-Martinez,Mid-Market,Pro,336.6,2024-08-29,,active,United States,Logistics
+CUST-0218,White-Williamson,SMB,Enterprise,218.59,2024-10-09,2024-12-24,churned,Netherlands,E-commerce
+CUST-0219,Harrison-Flores,SMB,Pro,194.68,2023-10-09,2024-05-05,churned,Australia,E-commerce
+CUST-0220,Phillips Group,Mid-Market,Enterprise,955.66,2023-08-10,2024-03-19,churned,Canada,E-commerce
+CUST-0221,Bond-Meadows,Mid-Market,Enterprise,879.44,2023-07-03,,active,UAE,Fintech
+CUST-0222,Nelson-Henry,Mid-Market,Pro,595.96,2023-06-03,2024-07-08,churned,Germany,Healthcare
+CUST-0223,Weeks-Jackson,SMB,Basic,240.54,2023-05-17,2023-11-03,churned,United States,EdTech
+CUST-0224,Contreras LLC,Enterprise,Enterprise,1404.56,2023-12-06,,active,UAE,SaaS
+CUST-0225,"Wilson, Hughes and Warner",Mid-Market,Enterprise,912.6,2024-02-06,,active,Australia,E-commerce
+CUST-0226,"May, Cox and Jones",SMB,Enterprise,256.84,2023-01-25,2023-08-12,churned,Singapore,SaaS
+CUST-0227,Stanton-Montgomery,SMB,Enterprise,218.09,2024-04-26,2024-09-16,churned,India,HR Tech
+CUST-0228,Lowery-Collins,SMB,Pro,108.79,2023-02-24,,active,France,Logistics
+CUST-0229,Craig-Jensen,Mid-Market,Pro,698.72,2024-04-30,2024-12-12,churned,Australia,Marketing
+CUST-0230,Rojas-Gray,Freemium,Pro,40.03,2024-07-21,2024-09-24,churned,United Kingdom,HR Tech
+CUST-0231,"Johnson, Ellison and Mccullough",Enterprise,Basic,3218.16,2024-05-09,2024-10-18,churned,India,Fintech
+CUST-0232,Allen-Shannon,Enterprise,Basic,2091.17,2023-10-04,,active,Australia,Fintech
+CUST-0233,Galloway Inc,Freemium,Basic,10.88,2024-11-17,2024-12-22,churned,Australia,SaaS
+CUST-0234,Flores-Rogers,SMB,Pro,142.49,2024-03-19,2024-05-29,churned,France,SaaS
+CUST-0235,"Webb, Johnson and Williams",SMB,Basic,73.77,2023-09-16,2024-04-04,churned,Germany,SaaS
+CUST-0236,Flores Ltd,SMB,Enterprise,256.44,2023-10-05,2024-01-14,churned,Singapore,HR Tech
+CUST-0237,"King, Pineda and James",Mid-Market,Basic,933.19,2023-08-21,2024-01-08,churned,UAE,Marketing
+CUST-0238,Cox PLC,SMB,Basic,121.03,2024-10-10,2024-11-12,churned,Australia,HR Tech
+CUST-0239,"Bowman, Morris and Marshall",SMB,Enterprise,258.17,2024-03-05,2024-04-12,churned,UAE,Healthcare
+CUST-0240,"Anderson, Keith and Jenkins",Mid-Market,Basic,503.6,2023-03-28,2024-04-22,churned,Netherlands,Marketing
+CUST-0241,"Jarvis, Lynch and Thompson",SMB,Basic,216.05,2023-04-21,2024-05-24,churned,UAE,SaaS
+CUST-0242,Conway and Sons,SMB,Pro,166.53,2023-07-28,2024-03-05,churned,United Kingdom,Logistics
+CUST-0243,Roach-Gillespie,Enterprise,Enterprise,2379.21,2023-12-21,,active,United States,Logistics
+CUST-0244,Jones-Johnson,SMB,Basic,137.07,2023-08-15,2024-08-08,churned,Singapore,HR Tech
+CUST-0245,Ward-Watkins,Mid-Market,Pro,867.24,2024-05-17,2024-12-31,churned,United Kingdom,EdTech
+CUST-0246,Norris-Lawrence,SMB,Pro,246.78,2024-04-12,,active,India,Marketing
+CUST-0247,Jackson Ltd,Freemium,Basic,26.61,2024-11-26,2024-12-31,churned,India,Logistics
+CUST-0248,Perry Inc,Enterprise,Pro,1191.22,2023-07-11,,active,United States,Logistics
+CUST-0249,"Brown, Ward and Smith",SMB,Pro,149.01,2023-09-07,2024-04-21,churned,Germany,HR Tech
+CUST-0250,"Mcbride, Mendoza and Taylor",Mid-Market,Pro,556.78,2023-04-28,,active,United States,Marketing
+CUST-0251,Anderson-Brown,SMB,Pro,199.61,2023-07-08,2024-06-02,churned,United States,Fintech
+CUST-0252,Blair and Sons,SMB,Pro,122.91,2023-10-25,2024-11-25,churned,Germany,HR Tech
+CUST-0253,Anderson-Massey,SMB,Pro,59.59,2024-01-15,,active,Netherlands,Marketing
+CUST-0254,Anderson Ltd,SMB,Basic,294.01,2023-07-09,,active,Australia,Logistics
+CUST-0255,Soto PLC,Mid-Market,Basic,824.18,2023-11-20,2024-01-04,churned,Netherlands,HR Tech
+CUST-0256,Romero-Jimenez,SMB,Pro,65.81,2024-08-29,2024-11-13,churned,Australia,SaaS
+CUST-0257,Reilly-George,Mid-Market,Pro,774.66,2023-05-06,,active,Singapore,Fintech
+CUST-0258,Caldwell Group,Mid-Market,Basic,670.09,2023-05-03,2024-03-13,churned,United States,SaaS
+CUST-0259,Wilson-Chapman,Mid-Market,Basic,648.83,2023-03-09,2024-11-03,churned,India,EdTech
+CUST-0260,Barrett-Mueller,Mid-Market,Enterprise,449.98,2023-09-26,,active,Singapore,Healthcare
+CUST-0261,Bell-Flynn,SMB,Basic,262.21,2024-02-09,2024-10-23,churned,Canada,Logistics
+CUST-0262,Lawrence PLC,Mid-Market,Basic,684.45,2023-07-02,2024-06-03,churned,Germany,Logistics
+CUST-0263,Beasley-Richardson,Mid-Market,Basic,384.83,2023-08-26,2023-12-05,churned,Singapore,SaaS
+CUST-0264,Weber and Sons,SMB,Basic,192.07,2023-02-26,2024-10-12,churned,Netherlands,Fintech
+CUST-0265,"Perry, Brown and Wolfe",SMB,Enterprise,148.54,2024-08-25,2024-11-24,churned,Australia,Marketing
+CUST-0266,Watson Inc,Enterprise,Enterprise,1295.0,2024-11-28,,active,United States,HR Tech
+CUST-0267,Caldwell Inc,Mid-Market,Basic,661.63,2023-07-05,2024-02-06,churned,Australia,SaaS
+CUST-0268,"Sullivan, Anderson and Dunn",Enterprise,Basic,3072.41,2024-05-06,,active,Canada,Healthcare
+CUST-0269,Keller-Logan,SMB,Basic,284.23,2023-01-06,,active,India,Healthcare
+CUST-0270,Gonzalez-Williams,Mid-Market,Enterprise,685.04,2024-03-27,2024-07-12,churned,UAE,Fintech
+CUST-0271,Boyd-French,Mid-Market,Basic,417.88,2023-07-22,,active,Germany,Logistics
+CUST-0272,"Vega, Mason and Kirk",Enterprise,Basic,3254.47,2023-03-13,,active,United States,SaaS
+CUST-0273,Marshall-Foley,Freemium,Enterprise,37.78,2023-06-05,2024-02-05,churned,Australia,SaaS
+CUST-0274,Anderson-Sampson,Mid-Market,Pro,738.39,2024-10-01,2024-12-31,churned,Singapore,Healthcare
+CUST-0275,Hoover-Ramos,Enterprise,Basic,3739.96,2024-09-17,,active,United Kingdom,E-commerce
+CUST-0276,Turner Group,SMB,Basic,170.06,2024-09-14,2024-12-30,churned,Canada,Logistics
+CUST-0277,Rodriguez-Mcintosh,Mid-Market,Basic,901.68,2024-04-18,,active,Canada,Fintech
+CUST-0278,Pacheco-Stewart,SMB,Basic,165.62,2024-07-25,2024-10-26,churned,United States,SaaS
+CUST-0279,Richards LLC,SMB,Basic,145.04,2023-07-11,2023-12-15,churned,Canada,Logistics
+CUST-0280,"Bennett, Kelly and Gould",SMB,Pro,88.84,2024-11-16,,active,Singapore,EdTech
+CUST-0281,Butler-Mason,Mid-Market,Basic,362.94,2024-08-02,2024-10-29,churned,France,Logistics
+CUST-0282,Smith-Arnold,SMB,Enterprise,119.34,2023-09-09,2024-12-13,churned,Singapore,EdTech
+CUST-0283,"Stevens, Sanchez and Vega",Mid-Market,Pro,892.17,2024-04-04,2024-12-15,churned,Canada,Marketing
+CUST-0284,"Martinez, Anthony and Hahn",SMB,Pro,149.15,2024-07-31,2024-09-23,churned,UAE,EdTech
+CUST-0285,Goodwin-Riddle,SMB,Enterprise,175.06,2024-07-18,2024-10-27,churned,Netherlands,Fintech
+CUST-0286,"Vega, Sherman and Johnson",SMB,Enterprise,73.17,2024-01-01,2024-07-22,churned,Canada,E-commerce
+CUST-0287,Cervantes Inc,SMB,Basic,176.28,2024-05-27,2024-07-07,churned,Germany,Logistics
+CUST-0288,Gibbs Group,Enterprise,Enterprise,3077.33,2023-10-08,,active,Germany,Logistics
+CUST-0289,Santos PLC,Freemium,Enterprise,15.61,2024-04-24,2024-10-28,churned,India,Logistics
+CUST-0290,Adams-Hunt,Mid-Market,Enterprise,656.29,2024-02-26,,active,India,HR Tech
+CUST-0291,Schwartz Group,Enterprise,Pro,2473.43,2023-05-20,,active,Netherlands,EdTech
+CUST-0292,Mendoza-French,Enterprise,Basic,3901.3,2023-07-04,,active,Netherlands,HR Tech
+CUST-0293,"Daniels, Murphy and Brown",SMB,Enterprise,212.9,2024-07-17,,active,Netherlands,Healthcare
+CUST-0294,"Henry, Bailey and Rodriguez",Mid-Market,Basic,707.88,2023-03-16,2024-05-08,churned,France,SaaS
+CUST-0295,Bradshaw-Lyons,Mid-Market,Pro,789.66,2024-10-02,2024-11-29,churned,Australia,E-commerce
+CUST-0296,"Malone, Ortiz and Cross",SMB,Pro,99.97,2024-11-01,2024-12-20,churned,United Kingdom,E-commerce
+CUST-0297,Burns Ltd,Mid-Market,Pro,692.06,2023-04-13,,active,UAE,Marketing
+CUST-0298,Garner Ltd,SMB,Pro,92.3,2024-07-16,,active,UAE,Logistics
+CUST-0299,"Brown, Briggs and Ayala",Mid-Market,Enterprise,906.49,2023-11-12,,active,India,HR Tech
+CUST-0300,Gutierrez-Zimmerman,SMB,Pro,110.63,2023-08-04,2023-12-27,churned,India,Healthcare
+CUST-0301,"Moore, Mueller and Brown",Mid-Market,Enterprise,641.81,2024-05-04,,active,India,EdTech
+CUST-0302,Huffman and Sons,SMB,Pro,218.16,2024-09-27,2024-12-16,churned,Germany,EdTech
+CUST-0303,Snyder Inc,SMB,Enterprise,287.83,2023-09-29,2024-06-11,churned,India,HR Tech
+CUST-0304,Parker Inc,SMB,Enterprise,255.99,2023-03-22,2024-11-16,churned,India,E-commerce
+CUST-0305,Walsh-King,SMB,Enterprise,234.22,2024-02-28,2024-04-23,churned,UAE,Healthcare
+CUST-0306,Edwards-Howell,Mid-Market,Basic,336.69,2024-01-12,2024-10-09,churned,Germany,SaaS
+CUST-0307,Hunt-Klein,Freemium,Pro,47.92,2023-08-13,2024-08-11,churned,Singapore,Healthcare
+CUST-0308,Newton-Hayes,Enterprise,Basic,2148.98,2024-05-09,,active,United States,Healthcare
+CUST-0309,Hill Group,Mid-Market,Basic,805.46,2023-09-01,,active,Australia,E-commerce
+CUST-0310,Carey-Fisher,Freemium,Pro,1.78,2023-10-20,2024-12-26,churned,Germany,EdTech
+CUST-0311,Fox Group,Enterprise,Basic,1037.07,2024-10-01,,active,Canada,EdTech
+CUST-0312,Moss-Bauer,Mid-Market,Basic,748.28,2023-06-28,,active,UAE,HR Tech
+CUST-0313,Jackson-Smith,SMB,Pro,251.2,2023-10-07,2024-11-14,churned,India,E-commerce
+CUST-0314,"Lane, Walker and Joyce",SMB,Basic,133.28,2024-09-26,2024-11-19,churned,Netherlands,Marketing
+CUST-0315,Acosta LLC,Enterprise,Basic,3061.12,2024-04-16,2024-11-03,churned,Germany,E-commerce
+CUST-0316,Gregory PLC,Mid-Market,Basic,954.14,2024-08-19,2024-11-06,churned,Singapore,EdTech
+CUST-0317,Sawyer Inc,Freemium,Pro,14.8,2023-02-24,2023-04-06,churned,Canada,Healthcare
+CUST-0318,Thompson-Ware,SMB,Enterprise,78.56,2023-06-04,2024-08-22,churned,UAE,EdTech
+CUST-0319,Short-Lopez,Mid-Market,Pro,746.46,2023-06-02,,active,Netherlands,Healthcare
+CUST-0320,"Mitchell, Gonzales and Howell",SMB,Pro,82.39,2024-03-03,2024-10-10,churned,UAE,HR Tech
+CUST-0321,Cervantes-Pollard,Enterprise,Basic,4207.98,2024-07-07,,active,Netherlands,Fintech
+CUST-0322,Watkins-Ross,Mid-Market,Enterprise,669.19,2023-07-15,2024-11-25,churned,United States,SaaS
+CUST-0323,Thomas-Oneal,Enterprise,Enterprise,4611.55,2023-06-14,,active,Germany,E-commerce
+CUST-0324,Fry-Herrera,SMB,Enterprise,179.09,2023-11-30,2024-04-13,churned,Netherlands,HR Tech
+CUST-0325,"Frazier, Chapman and Morgan",SMB,Basic,176.59,2024-11-05,2024-12-19,churned,UAE,Marketing
+CUST-0326,Brown Ltd,Mid-Market,Pro,340.36,2024-11-20,,active,United Kingdom,Marketing
+CUST-0327,Johnson PLC,SMB,Basic,49.75,2023-06-13,2023-09-25,churned,Australia,Logistics
+CUST-0328,Stewart PLC,Mid-Market,Pro,678.27,2024-08-10,2024-09-17,churned,United Kingdom,EdTech
+CUST-0329,Goodman-Campbell,SMB,Pro,241.24,2024-01-22,2024-09-23,churned,Australia,HR Tech
+CUST-0330,Jones and Sons,Enterprise,Enterprise,4627.07,2024-07-12,,active,UAE,E-commerce
+CUST-0331,Payne-Torres,Mid-Market,Enterprise,543.09,2023-06-05,2024-08-10,churned,Germany,Healthcare
+CUST-0332,"Jones, Terrell and Fisher",Enterprise,Pro,4024.72,2023-05-02,,active,UAE,Marketing
+CUST-0333,Potter Ltd,Mid-Market,Basic,875.53,2024-04-10,2024-08-06,churned,India,Healthcare
+CUST-0334,Phillips-Hunter,Freemium,Pro,35.53,2024-05-15,2024-11-30,churned,Netherlands,SaaS
+CUST-0335,Gomez-Harris,SMB,Enterprise,65.82,2024-01-06,2024-09-20,churned,United Kingdom,Healthcare
+CUST-0336,"Martinez, Graham and Mueller",Mid-Market,Basic,581.18,2024-05-02,2024-07-26,churned,Germany,EdTech
+CUST-0337,"Estrada, Wallace and Kennedy",SMB,Basic,278.1,2024-07-09,2024-10-29,churned,India,E-commerce
+CUST-0338,Diaz-Jensen,Freemium,Basic,25.54,2023-03-21,2024-01-26,churned,UAE,E-commerce
+CUST-0339,Martin-Hunter,Mid-Market,Pro,598.61,2023-10-26,,active,Australia,Logistics
+CUST-0340,Crawford Ltd,Mid-Market,Enterprise,585.37,2024-07-30,2024-09-21,churned,Singapore,Healthcare
+CUST-0341,"Harper, Lynch and Chang",Enterprise,Pro,2202.95,2023-06-11,,active,United Kingdom,Marketing
+CUST-0342,Brown and Sons,Freemium,Pro,27.31,2023-11-30,2024-05-02,churned,France,Logistics
+CUST-0343,Rose-Hamilton,Mid-Market,Basic,944.64,2023-05-05,,active,UAE,Healthcare
+CUST-0344,Hawkins-Lambert,SMB,Basic,143.29,2024-08-09,2024-09-13,churned,France,Healthcare
+CUST-0345,"Silva, Vazquez and Flores",Mid-Market,Basic,907.76,2023-11-18,2023-12-25,churned,France,Fintech
+CUST-0346,"Thomas, Johnson and Dunn",Mid-Market,Enterprise,827.28,2024-02-06,,active,Netherlands,Healthcare
+CUST-0347,Fletcher Inc,SMB,Pro,108.83,2023-08-01,2024-01-22,churned,Singapore,Logistics
+CUST-0348,Nguyen Inc,SMB,Pro,138.91,2024-02-14,,active,United States,HR Tech
+CUST-0349,"Lowery, Rodriguez and Lee",Enterprise,Pro,2280.93,2024-02-23,,active,Australia,SaaS
+CUST-0350,"Williams, Reed and Barnett",Mid-Market,Enterprise,454.67,2023-08-11,2024-01-21,churned,Netherlands,Marketing
+CUST-0351,Leblanc-Kelly,SMB,Pro,98.05,2024-02-23,2024-07-27,churned,UAE,Logistics
+CUST-0352,"Mcdonald, Rodriguez and Pope",SMB,Enterprise,254.4,2024-01-05,,active,Singapore,HR Tech
+CUST-0353,"Strong, Marshall and Phillips",SMB,Basic,247.74,2024-11-16,2024-12-31,churned,UAE,SaaS
+CUST-0354,Scott and Sons,Mid-Market,Enterprise,886.51,2024-04-11,2024-12-06,churned,United Kingdom,SaaS
+CUST-0355,Mcknight Ltd,SMB,Basic,259.64,2024-09-21,2024-11-09,churned,France,HR Tech
+CUST-0356,Schmidt Ltd,SMB,Pro,203.46,2024-05-27,2024-11-30,churned,Singapore,SaaS
+CUST-0357,"Wolfe, Jones and Smith",SMB,Enterprise,186.91,2024-08-25,2024-11-30,churned,India,EdTech
+CUST-0358,Hansen-Duncan,SMB,Basic,252.29,2024-01-24,2024-05-24,churned,United States,E-commerce
+CUST-0359,Williams-Barber,SMB,Pro,203.95,2023-12-26,2024-07-24,churned,Australia,Fintech
+CUST-0360,"Smith, Clay and Fletcher",SMB,Basic,150.51,2023-07-15,2024-08-04,churned,India,Fintech
+CUST-0361,Moore-Roberts,Mid-Market,Basic,899.9,2023-12-07,,active,Australia,Marketing
+CUST-0362,"Blanchard, White and Kim",SMB,Basic,168.0,2024-11-09,2024-12-31,churned,United States,HR Tech
+CUST-0363,Flores Inc,Enterprise,Basic,3579.63,2024-09-20,,active,UAE,SaaS
+CUST-0364,"Davis, Trujillo and Ramirez",SMB,Pro,274.32,2023-06-01,2024-10-29,churned,United Kingdom,Fintech
+CUST-0365,Baxter Ltd,Mid-Market,Enterprise,495.98,2023-01-02,,active,United Kingdom,E-commerce
+CUST-0366,Long-Morgan,Freemium,Basic,15.41,2024-05-06,2024-11-02,churned,Australia,Fintech
+CUST-0367,Rodriguez-Bryant,SMB,Enterprise,189.99,2024-01-24,2024-09-09,churned,UAE,Logistics
+CUST-0368,Rodriguez Group,SMB,Enterprise,233.94,2023-01-05,2023-04-25,churned,Canada,SaaS
+CUST-0369,"Davenport, Richard and Mills",SMB,Pro,107.04,2023-05-31,2024-08-09,churned,United Kingdom,EdTech
+CUST-0370,Hamilton Group,Enterprise,Enterprise,2802.2,2024-09-06,,active,Australia,Marketing
+CUST-0371,"Olson, Rodriguez and Parker",SMB,Pro,195.47,2024-11-29,2024-12-31,churned,France,Fintech
+CUST-0372,Hutchinson Inc,SMB,Basic,87.56,2023-07-22,2024-07-10,churned,Australia,Logistics
+CUST-0373,Martinez Group,SMB,Pro,71.88,2023-06-15,,active,Canada,EdTech
+CUST-0374,Evans-Schultz,SMB,Enterprise,70.82,2024-07-04,2024-12-23,churned,UAE,Marketing
+CUST-0375,Taylor-Perez,SMB,Enterprise,71.4,2024-08-12,2024-11-26,churned,Canada,Marketing
+CUST-0376,"Stuart, Henson and Kim",SMB,Enterprise,152.45,2024-10-16,2024-12-31,churned,France,E-commerce
+CUST-0377,Walsh-Moses,Mid-Market,Pro,418.48,2024-08-28,2024-10-31,churned,Germany,Fintech
+CUST-0378,Nunez Ltd,SMB,Pro,117.99,2024-09-13,2024-10-22,churned,India,Healthcare
+CUST-0379,"James, Johnson and Bates",Mid-Market,Pro,646.57,2023-02-03,,active,United States,E-commerce
+CUST-0380,Montgomery-Murray,SMB,Pro,286.21,2024-09-01,2024-12-19,churned,Canada,HR Tech
+CUST-0381,White PLC,SMB,Enterprise,252.87,2024-07-05,,active,Germany,EdTech
+CUST-0382,Haley-Dunn,SMB,Basic,285.82,2023-12-24,2024-07-01,churned,Australia,Logistics
+CUST-0383,"Lee, Dean and Mejia",SMB,Pro,222.74,2024-02-14,2024-07-17,churned,Australia,EdTech
+CUST-0384,Frey and Sons,Enterprise,Basic,2571.74,2024-01-17,2024-11-30,churned,Netherlands,E-commerce
+CUST-0385,Caldwell Group,Mid-Market,Pro,684.52,2023-04-28,,active,France,HR Tech
+CUST-0386,"Barber, Clark and Mayo",Enterprise,Pro,4325.13,2024-04-24,2024-12-27,churned,Singapore,E-commerce
+CUST-0387,"Crawford, Thomas and Coleman",Mid-Market,Enterprise,469.17,2024-01-27,,active,Australia,Marketing
+CUST-0388,Garrett Group,SMB,Enterprise,296.68,2024-11-12,2024-12-24,churned,UAE,Marketing
+CUST-0389,Krueger-Garcia,Mid-Market,Enterprise,852.71,2023-03-09,2024-10-08,churned,United States,Fintech
+CUST-0390,James-Alvarez,Enterprise,Enterprise,3630.41,2024-11-21,,active,Netherlands,SaaS
+CUST-0391,Ward-Miller,Mid-Market,Pro,750.88,2023-08-19,,active,Australia,Fintech
+CUST-0392,Davila Inc,SMB,Enterprise,113.68,2024-09-04,2024-12-09,churned,Netherlands,Healthcare
+CUST-0393,"Santiago, Curtis and Herrera",SMB,Enterprise,146.78,2023-02-14,2024-11-07,churned,UAE,E-commerce
+CUST-0394,"Whitaker, Cunningham and Hansen",SMB,Basic,55.14,2023-03-04,2024-06-01,churned,United States,E-commerce
+CUST-0395,Reyes LLC,SMB,Pro,134.77,2024-06-28,2024-12-08,churned,Canada,HR Tech
+CUST-0396,Steele Inc,SMB,Pro,229.5,2024-06-03,2024-07-20,churned,United Kingdom,Fintech
+CUST-0397,Johnson-Ruiz,SMB,Basic,134.77,2023-07-29,2024-10-10,churned,France,E-commerce
+CUST-0398,Bray LLC,Mid-Market,Basic,531.36,2024-04-12,2024-09-07,churned,Australia,E-commerce
+CUST-0399,Stuart Inc,SMB,Enterprise,213.33,2024-08-27,2024-12-29,churned,France,HR Tech
+CUST-0400,Chang LLC,Mid-Market,Basic,571.8,2023-08-20,,active,India,Fintech
+CUST-0401,Conley LLC,Mid-Market,Pro,858.85,2023-02-03,,active,Canada,Healthcare
+CUST-0402,Lopez-Lee,Mid-Market,Enterprise,483.39,2023-07-12,,active,Canada,Marketing
+CUST-0403,Morton and Sons,Mid-Market,Pro,710.32,2023-09-07,2024-12-12,churned,Netherlands,E-commerce
+CUST-0404,Robertson Inc,Enterprise,Enterprise,3823.95,2023-09-20,,active,Netherlands,Fintech
+CUST-0405,Yates-Davidson,Mid-Market,Basic,518.92,2023-12-08,2024-03-06,churned,Canada,E-commerce
+CUST-0406,Sullivan-Franco,Mid-Market,Pro,592.35,2024-03-17,2024-10-29,churned,Germany,HR Tech
+CUST-0407,Holloway-Gutierrez,Mid-Market,Basic,784.71,2024-02-12,,active,UAE,E-commerce
+CUST-0408,Howard-Anderson,Mid-Market,Enterprise,398.07,2024-04-23,2024-09-15,churned,United Kingdom,Logistics
+CUST-0409,Williams-Mathis,Freemium,Enterprise,23.75,2024-01-13,2024-08-26,churned,UAE,HR Tech
+CUST-0410,"Wells, Hanson and Perry",SMB,Pro,171.93,2023-07-15,2024-03-28,churned,Germany,Fintech
+CUST-0411,"Wright, Scott and Pollard",Mid-Market,Pro,856.32,2023-07-27,2023-09-11,churned,France,EdTech
+CUST-0412,Mcguire-Morrison,SMB,Enterprise,163.33,2024-02-08,2024-11-17,churned,UAE,Fintech
+CUST-0413,Wright Ltd,Mid-Market,Pro,487.25,2024-09-27,,active,UAE,SaaS
+CUST-0414,Yu-Byrd,Enterprise,Pro,2765.47,2023-08-17,,active,United States,Healthcare
+CUST-0415,"Rodriguez, Rodriguez and Cline",SMB,Basic,298.83,2024-01-23,2024-08-18,churned,Singapore,Fintech
+CUST-0416,Patrick-Velasquez,Enterprise,Enterprise,1947.78,2023-08-02,,active,Canada,Marketing
+CUST-0417,Hernandez-Lewis,SMB,Basic,83.81,2024-08-01,2024-09-26,churned,Netherlands,Logistics
+CUST-0418,"Taylor, Butler and Thomas",Mid-Market,Pro,717.2,2023-01-08,2023-12-03,churned,Netherlands,EdTech
+CUST-0419,Francis-Mendez,Freemium,Basic,25.21,2024-07-30,2024-12-11,churned,Germany,Marketing
+CUST-0420,"Shannon, Nichols and Garcia",Freemium,Enterprise,48.63,2024-07-03,2024-09-03,churned,Germany,Healthcare
+CUST-0421,Perez PLC,SMB,Enterprise,129.52,2024-03-30,2024-11-30,churned,Australia,HR Tech
+CUST-0422,Moreno LLC,SMB,Pro,207.1,2024-09-10,2024-11-27,churned,United States,Fintech
+CUST-0423,Gross and Sons,SMB,Pro,236.45,2023-01-28,2024-03-10,churned,Singapore,Logistics
+CUST-0424,Harrison-Peck,Mid-Market,Basic,907.37,2023-12-02,,active,Singapore,Logistics
+CUST-0425,Dean-Thompson,Enterprise,Pro,4182.71,2023-04-30,,active,France,HR Tech
+CUST-0426,Tucker Ltd,SMB,Enterprise,256.09,2023-05-08,2023-10-18,churned,Singapore,Logistics
+CUST-0427,Clay Inc,Enterprise,Basic,4049.02,2023-06-22,2024-11-03,churned,United States,E-commerce
+CUST-0428,Cochran-Perez,SMB,Basic,49.17,2023-02-05,,active,Germany,EdTech
+CUST-0429,"Brown, Murphy and Dixon",SMB,Pro,282.18,2023-05-09,2024-06-11,churned,United States,Logistics
+CUST-0430,Montgomery LLC,Mid-Market,Enterprise,753.59,2024-03-07,2024-09-09,churned,France,Marketing
+CUST-0431,"Todd, Lopez and Williamson",Mid-Market,Basic,791.88,2023-03-29,2024-08-28,churned,Germany,Healthcare
+CUST-0432,"Nguyen, Benson and Evans",Mid-Market,Basic,611.1,2024-09-09,2024-11-21,churned,Australia,E-commerce
+CUST-0433,"Brown, Jones and Mann",Mid-Market,Basic,460.03,2023-11-07,2024-01-28,churned,Canada,Logistics
+CUST-0434,"Sheppard, Reed and Choi",Enterprise,Basic,1548.52,2023-05-27,,active,Germany,Fintech
+CUST-0435,"Kim, Williams and Martinez",Mid-Market,Pro,305.92,2023-09-18,,active,Canada,Healthcare
+CUST-0436,"Brown, Singh and Diaz",Mid-Market,Basic,405.81,2023-03-15,2024-07-10,churned,United States,Fintech
+CUST-0437,Wood LLC,SMB,Pro,79.79,2023-12-27,2024-07-23,churned,Canada,E-commerce
+CUST-0438,Johnson-Grimes,SMB,Enterprise,210.16,2024-05-21,2024-11-20,churned,Netherlands,EdTech
+CUST-0439,Edwards-Garrett,Enterprise,Enterprise,3761.9,2023-12-24,,active,India,Healthcare
+CUST-0440,Cantu-Yu,Mid-Market,Pro,656.16,2024-01-07,,active,United Kingdom,Healthcare
+CUST-0441,Stephenson-Ortiz,Mid-Market,Enterprise,378.81,2023-07-06,,active,United States,SaaS
+CUST-0442,Krause-Jones,Freemium,Pro,45.76,2023-11-29,2024-10-15,churned,Canada,E-commerce
+CUST-0443,"Allen, Jones and Murray",Enterprise,Basic,4817.81,2024-10-06,,active,Netherlands,Fintech
+CUST-0444,Jordan-Hall,SMB,Pro,102.94,2023-01-13,,active,UAE,EdTech
+CUST-0445,Snyder-Bowen,Mid-Market,Pro,650.23,2023-12-07,2024-12-30,churned,United States,E-commerce
+CUST-0446,"Holland, Huff and Owens",SMB,Basic,126.48,2023-06-10,2024-02-03,churned,UAE,Logistics
+CUST-0447,Johnson and Sons,SMB,Enterprise,207.57,2024-11-10,2024-12-31,churned,United States,EdTech
+CUST-0448,"Welch, Gill and Garcia",Mid-Market,Basic,810.24,2024-03-01,,active,France,Fintech
+CUST-0449,Obrien PLC,Freemium,Pro,5.68,2023-09-05,2023-11-02,churned,Germany,Fintech
+CUST-0450,Ray and Sons,SMB,Pro,83.3,2024-03-18,2024-12-27,churned,UAE,EdTech
+CUST-0451,Stevens-Garcia,SMB,Enterprise,80.73,2024-04-27,2024-08-03,churned,United States,SaaS
+CUST-0452,Moody-Potts,SMB,Enterprise,156.33,2024-09-24,2024-11-26,churned,Netherlands,Fintech
+CUST-0453,"Gonzalez, Sutton and Browning",Mid-Market,Enterprise,657.04,2024-08-02,2024-12-19,churned,Germany,Logistics
+CUST-0454,Caldwell Group,SMB,Enterprise,242.33,2024-11-25,,active,United States,Healthcare
+CUST-0455,Jennings-Green,Mid-Market,Basic,301.8,2024-02-20,,active,France,SaaS
+CUST-0456,"Wilson, Thompson and Thornton",Mid-Market,Enterprise,567.7,2023-11-01,2023-12-19,churned,Australia,Healthcare
+CUST-0457,Reid-Newton,SMB,Basic,153.06,2023-02-07,2023-12-11,churned,Netherlands,Logistics
+CUST-0458,Chandler-Smith,SMB,Enterprise,217.33,2023-05-31,2024-02-13,churned,United Kingdom,Marketing
+CUST-0459,Colon Group,SMB,Pro,165.27,2024-07-08,2024-10-25,churned,United States,HR Tech
+CUST-0460,Hernandez Group,SMB,Enterprise,99.17,2023-05-14,2024-04-19,churned,Netherlands,Healthcare
+CUST-0461,"Jones, Anderson and Brown",Mid-Market,Basic,713.59,2023-11-24,,active,UAE,Healthcare
+CUST-0462,Dunn PLC,SMB,Pro,282.1,2023-10-18,2024-08-20,churned,United Kingdom,Logistics
+CUST-0463,"Mueller, Perry and Heath",SMB,Pro,213.33,2024-04-30,2024-12-02,churned,United States,Healthcare
+CUST-0464,Newman LLC,Mid-Market,Basic,466.48,2023-06-14,,active,Germany,EdTech
+CUST-0465,"West, Vazquez and Mclaughlin",SMB,Enterprise,279.32,2024-04-02,,active,Australia,Logistics
+CUST-0466,Daniels-Nelson,Mid-Market,Enterprise,822.78,2024-11-06,,active,Germany,Marketing
+CUST-0467,"Atkins, Gibbs and Pacheco",SMB,Basic,190.96,2024-08-04,2024-09-19,churned,India,EdTech
+CUST-0468,Willis Group,Enterprise,Enterprise,4704.17,2024-03-17,,active,Canada,Logistics
+CUST-0469,Simmons Group,Mid-Market,Basic,463.29,2023-06-25,,active,Netherlands,Fintech
+CUST-0470,"Gonzalez, Carr and Hill",SMB,Basic,90.09,2023-08-16,2024-04-10,churned,UAE,Logistics
+CUST-0471,Jenkins-Ortiz,Freemium,Basic,10.17,2023-11-04,2024-04-17,churned,United States,E-commerce
+CUST-0472,Roth-Barron,Enterprise,Enterprise,2216.86,2024-09-03,,active,United Kingdom,Healthcare
+CUST-0473,Trujillo-Greene,Enterprise,Pro,2311.17,2024-11-15,2024-12-22,churned,Australia,SaaS
+CUST-0474,"Gamble, Vance and Kelly",Mid-Market,Basic,481.86,2023-12-17,,active,Australia,HR Tech
+CUST-0475,Allen-Murray,Mid-Market,Basic,684.53,2023-09-03,2023-11-24,churned,United States,SaaS
+CUST-0476,Thompson LLC,SMB,Pro,244.24,2023-12-02,2024-04-11,churned,Canada,Fintech
+CUST-0477,Robinson-Mason,Mid-Market,Basic,480.92,2024-09-03,,active,United States,Healthcare
+CUST-0478,"Nelson, Dominguez and Kerr",Freemium,Basic,21.73,2024-07-18,2024-11-09,churned,United Kingdom,HR Tech
+CUST-0479,Hamilton Ltd,SMB,Pro,280.03,2023-12-26,2024-08-14,churned,United Kingdom,Marketing
+CUST-0480,"Beltran, Miller and Carter",Mid-Market,Pro,420.79,2023-10-26,2024-02-28,churned,India,HR Tech
+CUST-0481,"Padilla, Jones and Harmon",Enterprise,Basic,1138.6,2023-09-29,,active,India,HR Tech
+CUST-0482,Kim Inc,SMB,Pro,186.67,2024-05-15,2024-08-24,churned,Germany,Marketing
+CUST-0483,"Villarreal, May and Santos",SMB,Enterprise,270.16,2024-10-11,2024-12-20,churned,United Kingdom,Marketing
+CUST-0484,Moore PLC,Enterprise,Pro,2436.45,2024-04-30,,active,Canada,Logistics
+CUST-0485,"Ellis, White and Rodriguez",SMB,Basic,93.95,2024-04-10,2024-07-05,churned,India,SaaS
+CUST-0486,Edwards LLC,Enterprise,Enterprise,2886.74,2023-10-24,,active,France,E-commerce
+CUST-0487,Salinas Ltd,SMB,Basic,213.22,2024-01-09,2024-03-07,churned,Netherlands,Marketing
+CUST-0488,Fleming-Patterson,SMB,Basic,258.81,2024-09-12,2024-11-03,churned,Netherlands,Logistics
+CUST-0489,Smith Ltd,Enterprise,Basic,3790.51,2023-04-11,,active,Canada,E-commerce
+CUST-0490,Mitchell Ltd,Mid-Market,Pro,431.58,2023-12-30,,active,UAE,EdTech
+CUST-0491,"Cook, Green and Gonzalez",SMB,Basic,58.49,2024-10-20,2024-12-27,churned,United Kingdom,HR Tech
+CUST-0492,"Vasquez, Jackson and Norris",SMB,Pro,278.47,2024-01-01,2024-04-06,churned,Germany,Logistics
+CUST-0493,"Rice, English and Bowen",SMB,Basic,85.93,2024-05-03,2024-07-08,churned,UAE,Logistics
+CUST-0494,Lee-Martinez,Freemium,Enterprise,18.31,2024-10-14,2024-12-08,churned,United States,Logistics
+CUST-0495,Lee Group,SMB,Enterprise,83.11,2024-04-13,2024-09-01,churned,Singapore,Logistics
+CUST-0496,Flores-Reyes,SMB,Pro,291.19,2023-11-11,2024-10-20,churned,France,E-commerce
+CUST-0497,Waller-Hernandez,SMB,Enterprise,232.5,2023-09-01,2023-12-30,churned,United Kingdom,Marketing
+CUST-0498,"Moody, Barrett and Henry",Enterprise,Basic,4083.32,2024-03-29,,active,Netherlands,Logistics
+CUST-0499,"Harris, Rodriguez and Le",Freemium,Basic,47.41,2024-11-07,2024-12-25,churned,Singapore,E-commerce
+CUST-0500,Lane-Smith,SMB,Basic,68.45,2024-08-03,2024-10-12,churned,United States,Logistics
+CUST-0501,Vaughan Ltd,SMB,Pro,115.3,2024-08-30,2024-10-07,churned,India,Fintech
+CUST-0502,Perez-Bailey,Mid-Market,Basic,333.66,2024-06-07,2024-10-22,churned,Australia,HR Tech
+CUST-0503,Gonzalez and Sons,Enterprise,Pro,2404.92,2023-09-29,,active,Netherlands,Healthcare
+CUST-0504,Sullivan LLC,SMB,Basic,67.43,2024-01-19,2024-07-17,churned,Canada,EdTech
+CUST-0505,"Ramirez, Davis and Baker",Freemium,Basic,3.64,2023-05-22,2024-07-09,churned,United States,Fintech
+CUST-0506,"Carroll, Velasquez and Vincent",SMB,Enterprise,295.32,2023-09-15,,active,United Kingdom,Marketing
+CUST-0507,Ford-Spencer,Freemium,Basic,8.08,2023-09-18,2024-01-06,churned,United States,Logistics
+CUST-0508,Russell-Cohen,SMB,Enterprise,96.5,2023-09-28,2024-10-31,churned,UAE,EdTech
+CUST-0509,Martinez-Adams,Mid-Market,Enterprise,507.88,2023-07-28,2024-03-15,churned,UAE,HR Tech
+CUST-0510,Pena Group,SMB,Enterprise,139.21,2024-10-12,2024-11-29,churned,Netherlands,HR Tech
+CUST-0511,"Larson, Woods and Hughes",SMB,Basic,55.43,2024-05-23,2024-09-04,churned,Singapore,Fintech
+CUST-0512,Brown and Sons,SMB,Pro,148.37,2024-08-01,2024-11-23,churned,United States,Marketing
+CUST-0513,Shaw-Douglas,SMB,Basic,270.37,2024-08-29,2024-11-24,churned,India,HR Tech
+CUST-0514,"Davis, Sanchez and Griffith",Mid-Market,Basic,458.14,2024-08-11,2024-09-17,churned,United States,Fintech
+CUST-0515,"Hill, Long and Graham",Mid-Market,Enterprise,864.92,2024-04-21,2024-11-30,churned,France,SaaS
+CUST-0516,Brandt-Sanchez,Enterprise,Enterprise,4273.62,2024-06-16,,active,Singapore,Healthcare
+CUST-0517,Cisneros-Johnson,Mid-Market,Enterprise,355.19,2024-03-10,,active,United Kingdom,E-commerce
+CUST-0518,Berry LLC,SMB,Basic,238.3,2024-03-07,2024-06-30,churned,France,E-commerce
+CUST-0519,Robles Ltd,SMB,Enterprise,68.59,2023-09-06,2024-01-17,churned,Germany,EdTech
+CUST-0520,Adkins and Sons,SMB,Pro,230.78,2023-03-04,2023-07-01,churned,UAE,Marketing
+CUST-0521,Walters Inc,Mid-Market,Basic,898.78,2024-10-06,,active,Netherlands,Marketing
+CUST-0522,Castro-Henson,SMB,Basic,86.41,2024-03-11,2024-05-31,churned,Netherlands,Fintech
+CUST-0523,Warner-Mendez,Enterprise,Pro,4469.9,2024-02-11,,active,India,Marketing
+CUST-0524,Nelson Ltd,Mid-Market,Basic,699.84,2024-02-22,,active,India,Marketing
+CUST-0525,Mckay Inc,SMB,Pro,201.16,2023-01-06,2023-03-16,churned,Canada,Healthcare
+CUST-0526,"Williams, Goodman and Holder",SMB,Basic,167.8,2024-08-28,2024-11-13,churned,Canada,EdTech
+CUST-0527,"Parker, Mccarthy and Smith",SMB,Enterprise,259.71,2024-07-07,,active,United States,Healthcare
+CUST-0528,Brewer Group,SMB,Pro,292.55,2023-10-12,2024-04-23,churned,Australia,Fintech
+CUST-0529,"Carpenter, Stewart and Gutierrez",SMB,Pro,101.85,2024-08-16,2024-12-18,churned,UAE,Logistics
+CUST-0530,Rodriguez and Sons,Enterprise,Pro,3061.08,2024-08-08,,active,UAE,Marketing
+CUST-0531,"Grant, Montgomery and Perry",SMB,Basic,261.82,2024-10-26,,active,Germany,Healthcare
+CUST-0532,Wilson-Peterson,Enterprise,Pro,1802.91,2023-05-19,2023-07-21,churned,United Kingdom,Logistics
+CUST-0533,"Alexander, Guzman and Garcia",Mid-Market,Enterprise,491.51,2023-02-05,,active,Australia,Fintech
+CUST-0534,"Griffin, Lewis and Travis",Mid-Market,Pro,469.11,2023-05-31,,active,Germany,HR Tech
+CUST-0535,Franco-Nichols,Mid-Market,Enterprise,544.48,2023-01-04,2023-10-25,churned,United States,EdTech
+CUST-0536,Erickson Group,SMB,Basic,61.41,2024-04-09,,active,France,Healthcare
+CUST-0537,Bailey-Rose,Mid-Market,Enterprise,488.09,2023-07-13,2023-08-22,churned,United Kingdom,HR Tech
+CUST-0538,Ramirez LLC,Freemium,Basic,31.72,2023-09-16,2023-10-20,churned,India,EdTech
+CUST-0539,Evans-Davis,Mid-Market,Pro,795.85,2024-07-12,2024-11-15,churned,Singapore,EdTech
+CUST-0540,"Cooper, Elliott and Glenn",SMB,Enterprise,124.54,2023-03-28,2024-06-06,churned,United States,SaaS
+CUST-0541,Mills-Ortega,Mid-Market,Pro,762.99,2023-12-31,,active,UAE,EdTech
+CUST-0542,Jackson and Sons,SMB,Enterprise,76.03,2024-01-14,2024-07-03,churned,Canada,EdTech
+CUST-0543,Brown PLC,SMB,Pro,226.77,2024-11-14,,active,France,E-commerce
+CUST-0544,"Fletcher, Hunt and Hodges",Mid-Market,Enterprise,467.97,2024-09-25,2024-12-15,churned,Canada,E-commerce
+CUST-0545,Freeman-Holden,Mid-Market,Pro,758.12,2024-01-05,,active,Australia,Marketing
+CUST-0546,Rogers-Kelly,SMB,Pro,57.83,2024-07-18,2024-10-04,churned,France,HR Tech
+CUST-0547,Day Inc,Freemium,Enterprise,32.92,2023-01-10,2023-08-02,churned,UAE,E-commerce
+CUST-0548,Wilson and Sons,SMB,Basic,166.7,2023-02-09,2024-10-03,churned,Canada,Fintech
+CUST-0549,Lin-Brewer,SMB,Pro,104.83,2024-06-05,,active,Canada,Logistics
+CUST-0550,Elliott-Garcia,SMB,Basic,122.51,2023-10-13,2024-07-09,churned,Netherlands,Fintech
+CUST-0551,"Cole, Lyons and Chang",Mid-Market,Pro,435.99,2024-04-26,2024-11-16,churned,UAE,EdTech
+CUST-0552,Evans Ltd,SMB,Pro,266.71,2024-10-18,2024-11-29,churned,Australia,HR Tech
+CUST-0553,"Morrison, Scott and Dixon",SMB,Pro,264.6,2024-11-09,2024-12-11,churned,Canada,E-commerce
+CUST-0554,"Vaughan, Young and Johnson",SMB,Basic,63.5,2024-10-03,2024-11-15,churned,Netherlands,E-commerce
+CUST-0555,Adams PLC,Mid-Market,Pro,833.73,2023-11-16,2024-10-25,churned,Australia,Marketing
+CUST-0556,Young Inc,SMB,Basic,168.35,2024-06-25,2024-12-08,churned,Canada,SaaS
+CUST-0557,"Lin, Taylor and Martinez",Enterprise,Basic,4027.39,2024-03-10,,active,United Kingdom,Healthcare
+CUST-0558,Santiago-Hall,SMB,Pro,268.25,2023-01-15,2023-05-30,churned,UAE,EdTech
+CUST-0559,"Brown, Rice and Hernandez",SMB,Pro,254.96,2023-07-14,2024-01-08,churned,UAE,Logistics
+CUST-0560,Daniels Group,SMB,Pro,220.7,2023-08-15,2024-12-18,churned,Canada,Healthcare
+CUST-0561,Mcgee-Murray,SMB,Basic,275.72,2023-03-15,2023-05-03,churned,France,E-commerce
+CUST-0562,Wilson-Thompson,SMB,Pro,54.48,2023-04-03,2023-09-06,churned,United Kingdom,Marketing
+CUST-0563,Beck and Sons,Enterprise,Basic,2023.16,2023-05-11,,active,Netherlands,SaaS
+CUST-0564,Mora and Sons,Mid-Market,Basic,756.84,2024-05-12,2024-12-04,churned,Australia,HR Tech
+CUST-0565,Bates Group,SMB,Basic,185.82,2024-04-10,2024-06-18,churned,United Kingdom,EdTech
+CUST-0566,Rogers LLC,SMB,Enterprise,74.24,2024-05-03,2024-11-08,churned,Germany,Marketing
+CUST-0567,"Roberson, Carter and Tate",Enterprise,Basic,1419.66,2024-02-21,,active,India,Fintech
+CUST-0568,Gonzalez and Sons,Enterprise,Pro,2990.96,2024-01-13,,active,UAE,Healthcare
+CUST-0569,"Allen, Sanchez and Simmons",SMB,Pro,151.44,2023-11-28,2024-10-03,churned,France,HR Tech
+CUST-0570,Williams-Edwards,SMB,Enterprise,49.68,2024-05-09,2024-07-06,churned,Singapore,E-commerce
+CUST-0571,Vang Group,Freemium,Basic,38.2,2023-10-07,2024-11-10,churned,India,Healthcare
+CUST-0572,Smith Ltd,Mid-Market,Basic,983.13,2023-09-22,2023-11-16,churned,Germany,SaaS
+CUST-0573,Hopkins PLC,Enterprise,Pro,2440.86,2023-04-09,,active,United States,Fintech
+CUST-0574,"Morris, Copeland and Fernandez",Enterprise,Enterprise,4561.17,2023-06-30,2023-12-18,churned,Germany,Logistics
+CUST-0575,Banks Group,SMB,Pro,158.43,2023-04-08,2023-08-11,churned,Canada,E-commerce
+CUST-0576,"Vaughn, Harris and Whitaker",SMB,Enterprise,149.06,2024-10-23,2024-12-16,churned,Singapore,Marketing
+CUST-0577,Graves Inc,Mid-Market,Basic,857.04,2024-02-26,2024-04-26,churned,United States,Marketing
+CUST-0578,Fisher-Gibson,Freemium,Basic,23.65,2024-11-24,2024-12-31,churned,Netherlands,Marketing
+CUST-0579,Sullivan-Mccoy,Enterprise,Enterprise,3445.43,2023-08-16,,active,Germany,HR Tech
+CUST-0580,"Reese, Hodge and Sharp",Freemium,Basic,5.53,2023-07-30,2023-09-21,churned,India,Logistics
+CUST-0581,Leonard LLC,SMB,Enterprise,266.08,2023-02-22,2024-11-03,churned,Netherlands,Healthcare
+CUST-0582,Wheeler-Wheeler,Freemium,Enterprise,32.82,2023-11-05,2024-08-28,churned,Netherlands,Fintech
+CUST-0583,"Richard, Foster and Montgomery",SMB,Enterprise,230.66,2024-10-13,2024-12-24,churned,Australia,E-commerce
+CUST-0584,Wilson-Alvarez,Enterprise,Basic,3233.38,2024-05-14,,active,United Kingdom,E-commerce
+CUST-0585,"Fox, Kirby and Martinez",Mid-Market,Basic,628.03,2024-02-06,,active,United States,HR Tech
+CUST-0586,"Taylor, Roberts and Nichols",SMB,Basic,131.72,2024-03-11,2024-12-25,churned,UAE,Marketing
+CUST-0587,"White, Perez and Craig",SMB,Basic,107.75,2023-05-19,2024-09-18,churned,Singapore,HR Tech
+CUST-0588,"White, Gonzalez and Goodman",SMB,Basic,294.17,2024-07-22,2024-08-25,churned,Australia,Marketing
+CUST-0589,"Barrett, Olson and Bowman",SMB,Enterprise,186.27,2023-11-19,2024-10-23,churned,India,Healthcare
+CUST-0590,Gray-Reeves,Mid-Market,Basic,618.89,2023-01-07,2023-04-02,churned,Singapore,Logistics
+CUST-0591,Smith PLC,Mid-Market,Enterprise,733.21,2024-01-28,,active,Canada,HR Tech
+CUST-0592,Peters-Garcia,SMB,Pro,238.83,2023-05-02,2024-05-15,churned,India,Logistics
+CUST-0593,Flores Group,Mid-Market,Enterprise,332.0,2024-09-29,2024-11-15,churned,Australia,Fintech
+CUST-0594,Cox-Williams,SMB,Basic,97.98,2024-05-08,2024-09-15,churned,Singapore,Healthcare
+CUST-0595,"Serrano, Randall and Miller",Mid-Market,Pro,375.33,2023-05-07,2023-10-10,churned,Singapore,E-commerce
+CUST-0596,"Harris, Russell and Gates",Freemium,Pro,0.21,2023-04-19,2024-12-05,churned,Netherlands,HR Tech
+CUST-0597,Smith-Bauer,Freemium,Enterprise,38.27,2024-02-15,2024-06-12,churned,Germany,Fintech
+CUST-0598,"Miller, Johnson and Porter",SMB,Enterprise,199.14,2024-01-07,,active,Australia,Marketing
+CUST-0599,Sims-Morgan,Freemium,Pro,44.88,2023-04-03,2024-02-07,churned,Canada,EdTech
+CUST-0600,Mitchell Inc,Mid-Market,Pro,393.23,2024-01-15,2024-11-02,churned,UAE,Logistics
+CUST-0601,Barton-Kramer,Mid-Market,Basic,953.92,2024-11-29,,active,France,EdTech
+CUST-0602,"Pittman, Ortiz and Brown",Mid-Market,Enterprise,943.91,2024-01-17,2024-05-17,churned,UAE,Logistics
+CUST-0603,Patton LLC,Mid-Market,Enterprise,831.78,2023-11-07,,active,Netherlands,Marketing
+CUST-0604,Rodriguez LLC,Mid-Market,Pro,924.81,2023-07-10,,active,United Kingdom,Fintech
+CUST-0605,Oliver and Sons,SMB,Pro,85.33,2023-04-11,2023-12-01,churned,Germany,EdTech
+CUST-0606,Cross PLC,Mid-Market,Basic,402.35,2024-03-04,2024-09-01,churned,UAE,SaaS
+CUST-0607,Johnson Group,SMB,Basic,162.15,2023-03-18,2024-11-12,churned,UAE,Marketing
+CUST-0608,Rubio-Rodriguez,SMB,Enterprise,245.08,2024-11-04,2024-12-13,churned,United Kingdom,Marketing
+CUST-0609,"Young, Miranda and Wilson",SMB,Pro,288.18,2023-02-12,,active,UAE,SaaS
+CUST-0610,Gilbert-Morales,SMB,Basic,111.84,2024-06-15,2024-11-05,churned,Canada,Healthcare
+CUST-0611,"Robles, Hines and Huang",Enterprise,Basic,4857.16,2023-11-22,,active,United States,E-commerce
+CUST-0612,Cervantes Inc,Freemium,Pro,36.02,2023-09-30,2023-11-19,churned,India,EdTech
+CUST-0613,"Calhoun, Burton and Norman",SMB,Pro,195.0,2024-10-07,2024-11-27,churned,Germany,SaaS
+CUST-0614,"Bennett, Roth and Delacruz",SMB,Pro,129.66,2023-04-12,2024-03-15,churned,Netherlands,Logistics
+CUST-0615,Farley Ltd,SMB,Enterprise,225.92,2024-03-13,2024-07-15,churned,United States,E-commerce
+CUST-0616,"Gomez, Carter and Smith",SMB,Basic,183.26,2024-03-04,2024-07-25,churned,Canada,Logistics
+CUST-0617,Blevins-Taylor,SMB,Pro,103.61,2023-04-16,2024-11-09,churned,UAE,SaaS
+CUST-0618,Hammond-Mcgee,SMB,Enterprise,135.5,2023-11-22,2024-11-14,churned,Netherlands,Healthcare
+CUST-0619,Cole-Sanchez,Freemium,Pro,33.45,2024-11-09,2024-12-12,churned,India,EdTech
+CUST-0620,Simmons-Miller,SMB,Enterprise,178.22,2023-05-31,2024-12-07,churned,Singapore,HR Tech
+CUST-0621,Martinez Ltd,SMB,Basic,273.57,2024-05-04,2024-10-12,churned,United States,E-commerce
+CUST-0622,Taylor LLC,Freemium,Basic,37.89,2023-03-07,2023-06-12,churned,France,Marketing
+CUST-0623,Thomas Ltd,Enterprise,Enterprise,1822.32,2024-09-14,,active,Australia,Fintech
+CUST-0624,"Lamb, Duncan and Clay",Mid-Market,Pro,407.47,2024-07-18,,active,United Kingdom,Fintech
+CUST-0625,Kelley and Sons,SMB,Enterprise,93.5,2024-10-22,2024-11-25,churned,France,EdTech
+CUST-0626,"Aguilar, Mcintyre and Conner",SMB,Basic,161.78,2024-10-23,2024-12-12,churned,Australia,Fintech
+CUST-0627,Glass-Li,Mid-Market,Enterprise,748.35,2023-05-30,,active,Netherlands,SaaS
+CUST-0628,Kidd-Powell,Mid-Market,Basic,350.74,2023-05-27,,active,India,EdTech
+CUST-0629,Garcia LLC,Mid-Market,Pro,496.78,2024-11-29,,active,Australia,SaaS
+CUST-0630,Fischer Inc,Mid-Market,Enterprise,672.89,2023-02-21,2024-04-26,churned,India,E-commerce
+CUST-0631,"Hines, Medina and Clements",SMB,Enterprise,270.74,2024-11-04,,active,Canada,SaaS
+CUST-0632,Black and Sons,Mid-Market,Enterprise,687.99,2024-01-31,2024-03-03,churned,Netherlands,Marketing
+CUST-0633,Castillo Inc,Mid-Market,Enterprise,961.94,2024-10-13,2024-12-29,churned,Canada,Healthcare
+CUST-0634,Turner-Sampson,SMB,Basic,210.48,2024-02-13,2024-06-04,churned,France,EdTech
+CUST-0635,"Lee, Gutierrez and Costa",SMB,Enterprise,94.34,2024-05-16,2024-06-28,churned,Singapore,Fintech
+CUST-0636,Lopez LLC,SMB,Pro,65.84,2023-02-11,2024-10-27,churned,Canada,Logistics
+CUST-0637,Landry-Perry,SMB,Basic,212.87,2024-01-28,2024-04-02,churned,Canada,HR Tech
+CUST-0638,Carr Ltd,Mid-Market,Basic,730.82,2023-09-23,2024-08-17,churned,Netherlands,Logistics
+CUST-0639,"Campbell, Peters and Davis",Enterprise,Pro,4834.64,2024-09-19,,active,France,Healthcare
+CUST-0640,Patterson and Sons,Mid-Market,Basic,747.95,2023-01-02,2024-02-04,churned,Canada,HR Tech
+CUST-0641,Guzman-Fuller,Mid-Market,Basic,550.76,2023-11-09,2024-09-16,churned,Germany,Fintech
+CUST-0642,Drake Ltd,Enterprise,Basic,4434.85,2024-04-01,2024-09-15,churned,India,Fintech
+CUST-0643,"Morse, Herrera and Hayes",Mid-Market,Enterprise,923.58,2024-09-09,,active,United Kingdom,Marketing
+CUST-0644,Flowers and Sons,Enterprise,Enterprise,1851.04,2023-06-18,2024-04-09,churned,UAE,HR Tech
+CUST-0645,Baker-Mcmillan,Mid-Market,Enterprise,403.89,2024-04-21,2024-12-04,churned,India,E-commerce
+CUST-0646,Yates LLC,Mid-Market,Basic,656.78,2024-09-12,2024-12-15,churned,France,E-commerce
+CUST-0647,Cruz-Kennedy,Enterprise,Enterprise,1561.48,2023-06-26,,active,Netherlands,E-commerce
+CUST-0648,"Wagner, Smith and Roberts",Mid-Market,Pro,637.97,2024-09-04,2024-11-01,churned,France,Fintech
+CUST-0649,Butler-Sims,SMB,Pro,107.5,2023-05-02,2024-11-12,churned,Australia,HR Tech
+CUST-0650,Coffey LLC,Freemium,Basic,43.2,2024-09-12,2024-11-22,churned,UAE,EdTech
+CUST-0651,Roman-Lynn,Enterprise,Basic,2053.26,2023-04-13,,active,Australia,Marketing
+CUST-0652,Rodriguez Ltd,SMB,Pro,212.33,2024-01-09,2024-10-29,churned,Australia,Healthcare
+CUST-0653,Keller-Good,Mid-Market,Pro,546.68,2024-06-28,,active,Singapore,SaaS
+CUST-0654,Carey Inc,Mid-Market,Enterprise,397.14,2024-10-16,2024-11-19,churned,India,Healthcare
+CUST-0655,Garcia-Cannon,SMB,Enterprise,88.34,2023-11-02,2024-01-31,churned,France,Marketing
+CUST-0656,Vazquez-Shelton,Enterprise,Pro,3881.02,2023-03-03,,active,Singapore,Healthcare
+CUST-0657,Kent-Cox,Mid-Market,Basic,752.43,2024-04-15,2024-07-16,churned,Germany,E-commerce
+CUST-0658,Vaughn-Bridges,SMB,Basic,177.16,2023-01-24,,active,United Kingdom,E-commerce
+CUST-0659,"Williams, Flores and Randall",SMB,Enterprise,94.01,2023-05-07,,active,Netherlands,SaaS
+CUST-0660,"Barajas, Powell and Villarreal",Enterprise,Basic,3911.9,2023-12-13,,active,France,HR Tech
+CUST-0661,Jones-Cox,Mid-Market,Basic,629.52,2023-12-03,,active,Australia,E-commerce
+CUST-0662,Myers PLC,Enterprise,Enterprise,4281.81,2024-03-19,,active,UAE,EdTech
+CUST-0663,Ward-Lee,SMB,Enterprise,220.4,2024-07-08,,active,Netherlands,Fintech
+CUST-0664,Morrison-Smith,SMB,Enterprise,145.37,2024-06-07,2024-08-27,churned,UAE,Marketing
+CUST-0665,Owen-Saunders,Enterprise,Enterprise,3422.04,2024-04-01,,active,Netherlands,SaaS
+CUST-0666,Maldonado-Lopez,Enterprise,Basic,3125.72,2023-04-10,,active,Singapore,E-commerce
+CUST-0667,Richardson-George,Freemium,Enterprise,26.43,2023-08-22,2024-10-21,churned,Australia,Marketing
+CUST-0668,Alexander Ltd,SMB,Pro,59.86,2024-10-05,2024-11-18,churned,Australia,Logistics
+CUST-0669,Jones LLC,Mid-Market,Enterprise,818.23,2023-06-25,,active,Netherlands,Fintech
+CUST-0670,Jackson LLC,SMB,Pro,112.63,2024-08-28,2024-10-07,churned,Netherlands,Marketing
+CUST-0671,Ortega-Smith,SMB,Enterprise,50.37,2024-01-02,2024-02-04,churned,UAE,Fintech
+CUST-0672,"Mack, Jordan and Stephenson",Mid-Market,Pro,562.15,2023-11-09,2024-05-18,churned,Canada,Fintech
+CUST-0673,Roberts Group,SMB,Pro,211.89,2023-03-11,2024-10-09,churned,Netherlands,Logistics
+CUST-0674,Jacobs-Madden,Mid-Market,Pro,993.27,2023-01-21,2023-09-16,churned,UAE,HR Tech
+CUST-0675,"Malone, Chan and Brown",SMB,Enterprise,188.77,2023-04-08,2024-03-17,churned,Canada,Marketing
+CUST-0676,Potter-West,Mid-Market,Enterprise,897.64,2024-08-03,,active,France,HR Tech
+CUST-0677,Molina LLC,Enterprise,Pro,4796.98,2024-02-21,2024-12-07,churned,Canada,SaaS
+CUST-0678,Landry-Nelson,SMB,Basic,290.14,2024-01-22,2024-04-07,churned,Singapore,Marketing
+CUST-0679,"Summers, King and Michael",SMB,Basic,114.77,2023-11-26,2024-11-01,churned,Australia,Marketing
+CUST-0680,Powers-Lyons,Mid-Market,Enterprise,664.18,2024-09-17,,active,United Kingdom,E-commerce
+CUST-0681,Mcfarland-Jones,Mid-Market,Enterprise,606.84,2024-10-06,2024-12-17,churned,India,Healthcare
+CUST-0682,"Turner, Lopez and Weeks",SMB,Enterprise,198.88,2023-06-15,2024-03-08,churned,Germany,SaaS
+CUST-0683,Lewis Inc,SMB,Basic,212.75,2023-04-05,,active,India,Marketing
+CUST-0684,Thompson LLC,SMB,Basic,147.79,2024-10-21,2024-12-23,churned,United States,Fintech
+CUST-0685,"Bennett, Martinez and Jackson",Mid-Market,Enterprise,807.57,2023-07-22,,active,Canada,Logistics
+CUST-0686,"Ramos, Bishop and Robinson",Freemium,Pro,13.55,2023-04-13,2023-11-28,churned,Australia,SaaS
+CUST-0687,Parker LLC,SMB,Enterprise,150.78,2023-12-26,2024-03-02,churned,India,Logistics
+CUST-0688,Aguilar-Ellis,Freemium,Enterprise,39.34,2023-02-12,2024-09-14,churned,India,HR Tech
+CUST-0689,Davis-Pratt,Freemium,Pro,27.6,2023-12-27,2024-07-17,churned,Singapore,SaaS
+CUST-0690,"Hernandez, Murphy and Wallace",Mid-Market,Basic,480.22,2024-10-10,2024-12-29,churned,France,Logistics
+CUST-0691,Mclean LLC,SMB,Basic,137.27,2023-01-15,2023-11-10,churned,India,Fintech
+CUST-0692,Russell-Dawson,SMB,Basic,236.2,2023-09-16,2024-07-25,churned,Singapore,Logistics
+CUST-0693,Lopez-Kerr,SMB,Pro,272.58,2023-03-15,2023-10-25,churned,France,Healthcare
+CUST-0694,"Scott, Brown and Davis",Mid-Market,Basic,910.05,2024-06-13,2024-09-02,churned,Netherlands,Logistics
+CUST-0695,Ford Inc,SMB,Enterprise,75.67,2023-05-16,,active,Singapore,SaaS
+CUST-0696,"Carter, Williams and Alvarez",Enterprise,Pro,3165.9,2024-07-15,2024-12-15,churned,Netherlands,Logistics
+CUST-0697,"Hubbard, Perez and Walters",Mid-Market,Pro,988.77,2023-09-27,,active,Singapore,E-commerce
+CUST-0698,Gallegos LLC,Freemium,Enterprise,44.88,2024-05-02,2024-07-27,churned,Germany,SaaS
+CUST-0699,Cunningham-Guzman,Mid-Market,Basic,595.8,2023-06-28,,active,UAE,Logistics
+CUST-0700,"Schroeder, Ferguson and Haynes",SMB,Enterprise,220.58,2023-05-12,2023-10-12,churned,UAE,HR Tech
+CUST-0701,Johnson PLC,SMB,Enterprise,51.1,2024-03-03,2024-10-13,churned,United States,Logistics
+CUST-0702,Robinson Inc,SMB,Basic,264.46,2023-01-29,2023-11-24,churned,India,HR Tech
+CUST-0703,Smith-Newman,Freemium,Basic,16.81,2024-10-26,2024-12-22,churned,Australia,Logistics
+CUST-0704,Evans-Allen,SMB,Basic,149.15,2024-09-09,2024-12-21,churned,Netherlands,Healthcare
+CUST-0705,"Joyce, Meza and Warner",Enterprise,Enterprise,3883.26,2024-04-29,,active,Australia,Marketing
+CUST-0706,"Patterson, Davis and Wells",SMB,Basic,249.01,2023-07-05,2024-11-30,churned,Germany,Marketing
+CUST-0707,"Franco, Calderon and Good",Mid-Market,Enterprise,995.9,2023-12-03,,active,UAE,Logistics
+CUST-0708,"Collins, Rogers and Thompson",Enterprise,Enterprise,2200.14,2023-02-12,,active,United Kingdom,Marketing
+CUST-0709,Alexander Group,SMB,Pro,89.84,2024-07-03,2024-10-06,churned,United States,HR Tech
+CUST-0710,Tapia Inc,Mid-Market,Pro,481.58,2024-02-19,2024-12-30,churned,Canada,SaaS
+CUST-0711,Wells PLC,SMB,Basic,136.77,2024-05-25,2024-11-26,churned,Netherlands,E-commerce
+CUST-0712,"Gibson, Giles and Maddox",Freemium,Pro,13.95,2024-02-18,2024-12-05,churned,Singapore,Fintech
+CUST-0713,Hawkins-Cooke,SMB,Basic,120.63,2024-11-12,2024-12-16,churned,Canada,Marketing
+CUST-0714,"Vang, Werner and Daniels",Mid-Market,Basic,699.57,2024-06-06,,active,United States,E-commerce
+CUST-0715,Jackson-Key,SMB,Pro,127.37,2024-05-20,2024-12-17,churned,Netherlands,Marketing
+CUST-0716,Steele and Sons,SMB,Pro,160.22,2024-10-04,,active,Netherlands,HR Tech
+CUST-0717,Smith-Gonzalez,SMB,Basic,94.97,2023-08-22,2024-09-27,churned,India,Fintech
+CUST-0718,"Curtis, Baxter and English",SMB,Enterprise,148.26,2024-03-18,2024-12-15,churned,United Kingdom,SaaS
+CUST-0719,Garcia-Powell,Enterprise,Basic,3095.93,2024-04-10,,active,India,E-commerce
+CUST-0720,Wolfe-Morris,SMB,Basic,281.9,2024-01-18,2024-06-13,churned,India,HR Tech
+CUST-0721,Gonzalez-Holloway,Mid-Market,Basic,391.76,2024-07-24,,active,United Kingdom,Logistics
+CUST-0722,"Fleming, Mills and James",Enterprise,Enterprise,2300.81,2023-10-30,,active,India,HR Tech
+CUST-0723,Harris-Stewart,SMB,Enterprise,286.12,2023-02-11,2024-11-07,churned,Singapore,Marketing
+CUST-0724,Smith-Ward,Mid-Market,Pro,747.03,2023-05-10,2024-05-29,churned,UAE,Healthcare
+CUST-0725,Alexander Ltd,Enterprise,Pro,2767.44,2024-04-21,,active,Germany,EdTech
+CUST-0726,"Mullins, Chandler and Reyes",SMB,Pro,179.83,2024-01-26,2024-05-04,churned,India,HR Tech
+CUST-0727,Johnson Group,Mid-Market,Pro,780.75,2023-04-11,,active,India,SaaS
+CUST-0728,George-Hardy,Enterprise,Basic,4191.86,2024-04-19,,active,UAE,Logistics
+CUST-0729,Shaw-Mcclure,SMB,Basic,269.54,2024-10-04,2024-11-18,churned,Australia,Marketing
+CUST-0730,Vargas Ltd,SMB,Enterprise,68.8,2023-04-02,2024-10-12,churned,India,EdTech
+CUST-0731,Castro PLC,Mid-Market,Basic,671.83,2023-02-02,2023-09-12,churned,Germany,E-commerce
+CUST-0732,Kerr-Ross,SMB,Enterprise,208.22,2024-09-27,2024-11-30,churned,Netherlands,HR Tech
+CUST-0733,Thomas-Conway,SMB,Basic,53.85,2023-01-03,2024-08-02,churned,Germany,Fintech
+CUST-0734,"Anderson, Shaw and Gardner",SMB,Basic,80.26,2023-04-30,2023-06-07,churned,United States,E-commerce
+CUST-0735,"Stafford, Hall and Foley",SMB,Pro,103.3,2024-01-08,2024-10-19,churned,Singapore,SaaS
+CUST-0736,Wilson-Sanchez,SMB,Basic,259.89,2023-08-28,,active,India,Marketing
+CUST-0737,"Nunez, Ellis and Duncan",SMB,Pro,166.54,2024-04-06,2024-12-07,churned,Australia,SaaS
+CUST-0738,"Rodriguez, Gonzalez and Powers",SMB,Basic,241.04,2024-03-07,2024-11-18,churned,United Kingdom,Healthcare
+CUST-0739,"Gilbert, Moore and Williams",Mid-Market,Basic,838.93,2023-04-25,,active,Singapore,Marketing
+CUST-0740,Osborne-Price,Mid-Market,Enterprise,518.16,2024-09-23,2024-10-28,churned,UAE,Fintech
+CUST-0741,Preston LLC,SMB,Enterprise,208.63,2023-05-02,2023-07-24,churned,France,Fintech
+CUST-0742,"Bishop, Williams and Hernandez",SMB,Pro,157.54,2023-09-30,2024-12-09,churned,Netherlands,Fintech
+CUST-0743,Hall Inc,SMB,Enterprise,109.77,2023-12-03,,active,Singapore,E-commerce
+CUST-0744,House Inc,SMB,Enterprise,71.37,2023-12-25,2024-03-10,churned,Netherlands,Logistics
+CUST-0745,"Rogers, Davis and Sanders",Freemium,Pro,48.85,2023-03-27,2023-06-26,churned,Germany,Fintech
+CUST-0746,Saunders-Serrano,SMB,Enterprise,107.17,2024-11-06,,active,Canada,HR Tech
+CUST-0747,Trujillo-Garcia,Mid-Market,Basic,314.93,2023-09-29,2024-11-02,churned,India,SaaS
+CUST-0748,"Carter, Porter and Skinner",Mid-Market,Pro,605.81,2023-08-20,2024-09-09,churned,France,E-commerce
+CUST-0749,Bennett-Gallegos,Mid-Market,Enterprise,526.25,2023-09-12,,active,UAE,E-commerce
+CUST-0750,Taylor Ltd,SMB,Enterprise,87.76,2023-05-20,2024-03-14,churned,Canada,HR Tech
+CUST-0751,Frazier-Robbins,SMB,Basic,208.51,2024-09-08,2024-10-31,churned,Netherlands,Logistics
+CUST-0752,Johnson-Wheeler,Enterprise,Enterprise,1955.15,2023-07-31,,active,UAE,Marketing
+CUST-0753,"Cook, Rodriguez and Ortiz",SMB,Enterprise,219.81,2024-02-19,2024-06-06,churned,India,Logistics
+CUST-0754,Krause Ltd,SMB,Basic,129.51,2024-02-08,2024-04-12,churned,Germany,E-commerce
+CUST-0755,"Campbell, Clark and Huff",Enterprise,Basic,1808.32,2024-04-15,,active,United Kingdom,Marketing
+CUST-0756,Summers Inc,Mid-Market,Pro,667.55,2023-06-25,,active,United Kingdom,Logistics
+CUST-0757,"Cordova, Young and Garcia",SMB,Enterprise,228.46,2023-06-19,2024-02-17,churned,Singapore,Fintech
+CUST-0758,White-Gomez,Mid-Market,Pro,746.6,2024-04-17,2024-11-23,churned,Canada,SaaS
+CUST-0759,Conway-Jefferson,Enterprise,Pro,2063.26,2024-05-03,2024-06-20,churned,United States,Healthcare
+CUST-0760,"Nash, Woods and Casey",Freemium,Pro,4.76,2023-09-17,2024-07-15,churned,France,Healthcare
+CUST-0761,"Macias, Lee and Lewis",Mid-Market,Basic,473.89,2024-10-04,,active,UAE,Marketing
+CUST-0762,Shannon-Moore,Mid-Market,Enterprise,835.63,2024-11-11,,active,Singapore,Marketing
+CUST-0763,"Hill, Morgan and Contreras",Enterprise,Pro,1667.24,2023-05-29,,active,UAE,Logistics
+CUST-0764,Krause-Riggs,Mid-Market,Pro,673.2,2023-05-27,,active,Canada,Logistics
+CUST-0765,Martinez-Reed,Enterprise,Enterprise,2649.37,2023-07-21,,active,Canada,Healthcare
+CUST-0766,"Blake, Patton and Brown",Mid-Market,Enterprise,449.54,2024-06-12,,active,India,Logistics
+CUST-0767,"Schneider, Nguyen and Ingram",Freemium,Pro,21.93,2024-07-02,2024-08-09,churned,Netherlands,SaaS
+CUST-0768,Joseph-Crawford,Mid-Market,Basic,994.39,2024-08-20,2024-10-27,churned,France,Logistics
+CUST-0769,Pham Inc,SMB,Enterprise,254.48,2024-10-07,2024-11-23,churned,UAE,E-commerce
+CUST-0770,"Wilson, Lynn and Jackson",SMB,Pro,164.09,2023-09-13,2024-02-25,churned,Netherlands,Healthcare
+CUST-0771,Jackson and Sons,SMB,Enterprise,251.77,2024-07-06,2024-11-15,churned,France,Fintech
+CUST-0772,"Mccarty, Watkins and Padilla",Mid-Market,Enterprise,854.24,2023-09-16,2024-12-11,churned,Netherlands,Fintech
+CUST-0773,Murray-Brooks,Mid-Market,Enterprise,509.97,2024-01-14,,active,Australia,Fintech
+CUST-0774,"Anderson, Phillips and Smith",Enterprise,Pro,4687.49,2023-10-24,,active,Australia,Fintech
+CUST-0775,Smith and Sons,Enterprise,Enterprise,1906.87,2024-04-22,,active,United Kingdom,Marketing
+CUST-0776,Newman Ltd,SMB,Basic,180.1,2024-11-09,2024-12-27,churned,Canada,Healthcare
+CUST-0777,Duke-Gates,SMB,Pro,217.41,2023-12-05,,active,Netherlands,Fintech
+CUST-0778,"Burch, Williams and Richards",SMB,Pro,121.45,2024-07-11,2024-09-12,churned,United States,HR Tech
+CUST-0779,Zimmerman-Fischer,Mid-Market,Pro,334.47,2024-03-19,2024-05-31,churned,UAE,Marketing
+CUST-0780,Brown-Allison,Enterprise,Basic,1521.5,2024-07-07,2024-12-27,churned,Singapore,Marketing
+CUST-0781,Ramirez-Wilson,Mid-Market,Enterprise,437.07,2023-04-03,,active,UAE,Healthcare
+CUST-0782,"Johnson, Richardson and Garcia",SMB,Enterprise,115.56,2023-09-01,2024-09-15,churned,United States,Fintech
+CUST-0783,Carter Inc,Mid-Market,Pro,596.05,2023-09-06,2024-03-18,churned,Netherlands,SaaS
+CUST-0784,Wilson-Turner,Enterprise,Pro,1677.02,2023-11-20,,active,Netherlands,E-commerce
+CUST-0785,Jones-Wilson,SMB,Basic,280.05,2023-01-26,2024-03-13,churned,United States,Fintech
+CUST-0786,"Wilson, Rose and Koch",Mid-Market,Basic,469.89,2023-03-20,,active,India,SaaS
+CUST-0787,"Gates, Haynes and Miller",SMB,Basic,250.07,2023-03-14,2024-08-07,churned,Canada,Healthcare
+CUST-0788,"Burnett, Powell and Henderson",Mid-Market,Pro,448.1,2023-08-19,,active,UAE,HR Tech
+CUST-0789,Johnson-Thompson,Mid-Market,Enterprise,993.62,2023-10-31,,active,United Kingdom,Marketing
+CUST-0790,Young-Mason,Mid-Market,Basic,763.81,2023-03-05,2023-09-25,churned,India,Healthcare
+CUST-0791,Bonilla-Freeman,Enterprise,Basic,3471.86,2023-05-10,2023-06-17,churned,Australia,EdTech
+CUST-0792,Kirk LLC,Mid-Market,Basic,938.1,2023-10-27,2024-01-20,churned,India,Marketing
+CUST-0793,Cook-Smith,SMB,Basic,144.18,2023-08-31,,active,Canada,HR Tech
+CUST-0794,"Fields, Davis and Daugherty",Enterprise,Enterprise,3126.24,2024-04-16,,active,Singapore,SaaS
+CUST-0795,"Watson, Sheppard and Curtis",SMB,Pro,279.57,2024-07-14,2024-12-16,churned,Germany,SaaS
+CUST-0796,"Drake, Ferguson and Krause",SMB,Enterprise,136.98,2024-06-25,2024-09-23,churned,India,SaaS
+CUST-0797,Ward Ltd,Mid-Market,Basic,914.2,2023-10-28,,active,UAE,EdTech
+CUST-0798,Clark-Hernandez,SMB,Basic,134.45,2024-02-12,2024-05-22,churned,Australia,Healthcare
+CUST-0799,"Carrillo, Walker and Townsend",SMB,Enterprise,192.22,2023-03-03,2024-02-15,churned,Canada,HR Tech
+CUST-0800,"Schneider, Conrad and Carson",Mid-Market,Enterprise,444.52,2023-02-04,2024-09-10,churned,France,E-commerce
+CUST-0801,Golden-Colon,SMB,Pro,225.28,2024-11-18,2024-12-20,churned,Germany,E-commerce
+CUST-0802,"Williams, Weiss and White",SMB,Basic,188.34,2023-09-02,,active,Germany,Logistics
+CUST-0803,"Schmitt, Brown and Lee",Enterprise,Pro,1582.09,2023-09-27,2024-04-07,churned,Australia,EdTech
+CUST-0804,Valdez-Bush,SMB,Enterprise,282.44,2023-05-29,,active,India,E-commerce
+CUST-0805,Tanner Group,Enterprise,Enterprise,1427.09,2023-09-12,,active,Netherlands,EdTech
+CUST-0806,Dodson-Werner,Mid-Market,Basic,728.04,2023-07-04,,active,United Kingdom,Logistics
+CUST-0807,"Oliver, Thompson and Bryant",SMB,Pro,243.96,2023-12-11,2024-11-14,churned,Canada,E-commerce
+CUST-0808,Wilson Group,Enterprise,Basic,2965.78,2023-07-29,2023-12-04,churned,United Kingdom,Marketing
+CUST-0809,Miller-Becker,Enterprise,Pro,1060.06,2023-11-22,,active,France,Healthcare
+CUST-0810,Molina-Thomas,Enterprise,Pro,1264.55,2024-01-16,,active,Netherlands,HR Tech
+CUST-0811,"Conner, Robles and Mclean",Mid-Market,Pro,905.88,2023-07-19,,active,Australia,SaaS
+CUST-0812,"Riggs, Beltran and Bond",Mid-Market,Pro,876.21,2023-10-17,,active,Netherlands,SaaS
+CUST-0813,"Rivera, Anderson and Chase",Mid-Market,Basic,615.68,2023-04-29,,active,France,Marketing
+CUST-0814,Knight-Alvarez,Freemium,Basic,1.92,2023-11-21,2024-11-07,churned,France,EdTech
+CUST-0815,Houston-Hayes,SMB,Pro,270.1,2023-11-15,2024-05-09,churned,Germany,Marketing
+CUST-0816,Espinoza-Farley,SMB,Pro,278.76,2024-07-04,2024-09-08,churned,Singapore,Fintech
+CUST-0817,Sweeney Inc,Mid-Market,Enterprise,379.11,2024-11-11,,active,UAE,E-commerce
+CUST-0818,Baker-Perez,SMB,Enterprise,129.87,2024-07-05,2024-11-28,churned,France,HR Tech
+CUST-0819,"Lopez, Nielsen and Huffman",SMB,Enterprise,130.02,2023-03-24,2023-10-07,churned,United States,Fintech
+CUST-0820,Hebert-Arroyo,SMB,Enterprise,161.35,2024-11-16,2024-12-28,churned,UAE,E-commerce
+CUST-0821,"Shelton, Taylor and Nunez",SMB,Enterprise,144.15,2023-05-13,2024-05-20,churned,Germany,E-commerce
+CUST-0822,Adams-Pearson,Enterprise,Pro,1715.47,2024-05-25,,active,India,EdTech
+CUST-0823,"Thompson, Heath and Lopez",Mid-Market,Basic,971.72,2023-12-15,2024-04-15,churned,Germany,Healthcare
+CUST-0824,"Simmons, Lewis and Thompson",SMB,Pro,240.35,2024-01-03,2024-10-13,churned,UAE,SaaS
+CUST-0825,Garner-Smith,Mid-Market,Pro,644.93,2023-01-30,2024-06-30,churned,Australia,HR Tech
+CUST-0826,Richards Ltd,SMB,Pro,199.03,2023-09-01,2024-07-07,churned,Netherlands,Healthcare
+CUST-0827,Hartman Ltd,SMB,Basic,86.06,2024-08-30,2024-10-03,churned,United Kingdom,EdTech
+CUST-0828,"Thomas, Cochran and Smith",SMB,Basic,70.93,2023-08-07,2023-12-06,churned,India,E-commerce
+CUST-0829,Miller-Jones,Freemium,Basic,36.72,2023-08-06,2023-09-23,churned,India,Logistics
+CUST-0830,Lester-Gross,SMB,Enterprise,143.73,2023-10-01,2024-06-05,churned,United States,EdTech
+CUST-0831,Hill-Jones,Mid-Market,Pro,385.29,2023-03-22,,active,UAE,Marketing
+CUST-0832,"Lucero, Rodriguez and Mcfarland",Mid-Market,Basic,786.38,2023-10-19,,active,Netherlands,Fintech
+CUST-0833,"Luna, Sanchez and Jones",Mid-Market,Enterprise,781.37,2023-01-17,,active,India,Marketing
+CUST-0834,Phillips-Mullins,Mid-Market,Enterprise,521.23,2024-02-18,,active,Canada,E-commerce
+CUST-0835,Davila Ltd,Mid-Market,Pro,646.98,2024-04-10,,active,Singapore,E-commerce
+CUST-0836,Martinez Group,Enterprise,Basic,1930.89,2024-09-16,,active,United Kingdom,Fintech
+CUST-0837,Meza-Sanchez,SMB,Basic,205.37,2024-04-25,2024-12-28,churned,Netherlands,Marketing
+CUST-0838,Dunlap Group,SMB,Basic,132.45,2024-05-15,2024-11-24,churned,United Kingdom,Healthcare
+CUST-0839,"Gonzalez, Gomez and Hendrix",Mid-Market,Enterprise,477.84,2023-12-07,2024-06-07,churned,UAE,Logistics
+CUST-0840,Stevens-Hernandez,Enterprise,Pro,1455.35,2024-10-23,,active,Netherlands,SaaS
+CUST-0841,Yu LLC,Enterprise,Enterprise,1776.06,2023-12-29,,active,Singapore,HR Tech
+CUST-0842,Moran LLC,Enterprise,Enterprise,3582.61,2024-05-26,,active,Singapore,Logistics
+CUST-0843,Ferguson Ltd,Mid-Market,Basic,869.1,2024-03-31,,active,UAE,EdTech
+CUST-0844,Navarro Group,Mid-Market,Basic,774.06,2024-07-13,,active,France,Logistics
+CUST-0845,"Jackson, Maxwell and Carrillo",Enterprise,Basic,4552.12,2023-06-04,,active,India,SaaS
+CUST-0846,"Booth, Johnson and Fernandez",SMB,Enterprise,142.81,2023-08-11,2023-12-03,churned,Netherlands,Marketing
+CUST-0847,Cook-Ruiz,SMB,Enterprise,78.21,2024-09-28,2024-12-06,churned,Canada,SaaS
+CUST-0848,Atkinson LLC,SMB,Pro,70.7,2024-06-30,,active,Singapore,EdTech
+CUST-0849,Allison-Gutierrez,SMB,Basic,124.58,2024-07-27,2024-09-04,churned,United States,HR Tech
+CUST-0850,Navarro Group,Mid-Market,Basic,858.52,2024-07-19,,active,France,Logistics
+CUST-0851,May-Jensen,Freemium,Basic,35.89,2024-09-07,2024-11-17,churned,United States,E-commerce
+CUST-0852,"Pena, Kirk and Price",SMB,Enterprise,58.14,2023-08-27,2024-12-11,churned,United States,SaaS
+CUST-0853,Flores-Kelly,SMB,Pro,60.01,2023-09-27,2023-12-10,churned,Singapore,SaaS
+CUST-0854,Elliott Group,SMB,Enterprise,240.55,2023-01-06,2023-02-28,churned,India,Healthcare
+CUST-0855,Campos and Sons,SMB,Pro,97.14,2024-01-27,2024-08-07,churned,United States,EdTech
+CUST-0856,Luna Inc,SMB,Enterprise,117.41,2023-03-26,2024-11-18,churned,United States,Healthcare
+CUST-0857,"Payne, Osborn and Baker",Mid-Market,Enterprise,684.01,2024-03-05,2024-08-27,churned,France,E-commerce
+CUST-0858,Hood PLC,SMB,Basic,202.32,2024-09-12,2024-12-07,churned,Germany,SaaS
+CUST-0859,"Huynh, Dorsey and Medina",Mid-Market,Basic,772.17,2024-11-06,2024-12-07,churned,Australia,Marketing
+CUST-0860,Rodriguez Inc,SMB,Enterprise,198.03,2024-11-03,2024-12-29,churned,Singapore,Logistics
+CUST-0861,Mckee-Galloway,SMB,Basic,253.36,2024-01-02,2024-10-31,churned,Singapore,E-commerce
+CUST-0862,Hoffman-Rivas,SMB,Pro,249.59,2024-02-13,2024-05-02,churned,India,HR Tech
+CUST-0863,"Bailey, Harper and Romero",Mid-Market,Enterprise,962.27,2024-03-24,2024-12-08,churned,India,Logistics
+CUST-0864,"Stephens, Bradley and Vaughn",SMB,Pro,223.9,2024-08-14,2024-12-22,churned,Singapore,HR Tech
+CUST-0865,"Miller, Holt and West",SMB,Basic,167.83,2023-04-25,2024-09-08,churned,India,Logistics
+CUST-0866,"Adams, Lopez and Hamilton",Mid-Market,Enterprise,389.05,2023-08-07,2024-10-28,churned,United States,Logistics
+CUST-0867,Andrews Inc,Mid-Market,Pro,349.58,2023-06-21,2024-11-04,churned,Netherlands,Marketing
+CUST-0868,Waller LLC,SMB,Pro,109.92,2023-11-23,2024-08-25,churned,United States,Logistics
+CUST-0869,Petty LLC,SMB,Enterprise,222.51,2024-03-14,2024-11-21,churned,Canada,Healthcare
+CUST-0870,"Henderson, Wilson and Wheeler",SMB,Enterprise,216.4,2024-03-30,2024-10-28,churned,Singapore,Fintech
+CUST-0871,Robbins LLC,Mid-Market,Pro,623.57,2023-04-03,,active,Germany,EdTech
+CUST-0872,"Welch, Collins and Rojas",Freemium,Pro,3.41,2024-07-03,2024-11-07,churned,Singapore,SaaS
+CUST-0873,Smith-Ortega,SMB,Enterprise,253.26,2023-01-22,,active,United Kingdom,E-commerce
+CUST-0874,Russo Ltd,Mid-Market,Enterprise,616.63,2024-06-09,2024-12-13,churned,Singapore,Healthcare
+CUST-0875,Moss-Bates,SMB,Pro,268.36,2024-01-03,2024-07-06,churned,Canada,Fintech
+CUST-0876,Arellano Group,Mid-Market,Basic,727.43,2024-06-19,,active,India,SaaS
+CUST-0877,Byrd LLC,SMB,Enterprise,186.22,2024-10-10,2024-12-24,churned,Canada,Fintech
+CUST-0878,"Tate, Powers and Patrick",Enterprise,Enterprise,4462.72,2023-07-17,,active,Netherlands,Marketing
+CUST-0879,Ramirez LLC,Mid-Market,Enterprise,797.53,2024-11-18,2024-12-24,churned,France,E-commerce
+CUST-0880,Meyer-Morgan,Mid-Market,Pro,431.57,2024-11-15,2024-12-26,churned,Germany,EdTech
+CUST-0881,"Carrillo, Jones and Smith",Freemium,Enterprise,32.83,2024-05-30,2024-07-17,churned,United Kingdom,E-commerce
+CUST-0882,Powell LLC,Mid-Market,Basic,640.2,2024-01-09,2024-04-17,churned,Germany,Marketing
+CUST-0883,Olson LLC,Enterprise,Pro,4574.33,2023-01-08,,active,Netherlands,E-commerce
+CUST-0884,"Hudson, Cannon and Castro",Mid-Market,Pro,596.46,2023-04-28,,active,Canada,Healthcare
+CUST-0885,Ramirez Group,SMB,Enterprise,200.14,2023-02-13,2023-11-12,churned,UAE,EdTech
+CUST-0886,Myers-Stephenson,SMB,Enterprise,185.54,2023-02-07,2023-04-16,churned,Singapore,Logistics
+CUST-0887,Humphrey PLC,SMB,Enterprise,169.38,2023-01-04,2023-06-28,churned,UAE,EdTech
+CUST-0888,Rivera and Sons,Mid-Market,Basic,354.69,2023-12-08,,active,France,HR Tech
+CUST-0889,Garner-Wood,Mid-Market,Enterprise,763.95,2023-02-14,,active,UAE,EdTech
+CUST-0890,Crawford-Pineda,Mid-Market,Basic,931.61,2023-11-03,,active,Singapore,HR Tech
+CUST-0891,"Sloan, Crosby and Williams",Mid-Market,Pro,627.99,2024-06-29,,active,Canada,EdTech
+CUST-0892,Smith PLC,SMB,Enterprise,57.83,2024-10-09,,active,India,EdTech
+CUST-0893,Logan Ltd,SMB,Enterprise,167.29,2023-06-28,2023-09-18,churned,India,SaaS
+CUST-0894,"Chambers, Green and Foster",SMB,Pro,69.63,2024-08-03,2024-12-19,churned,India,E-commerce
+CUST-0895,"Chandler, Welch and Brooks",Mid-Market,Enterprise,492.38,2024-09-28,2024-11-11,churned,Germany,E-commerce
+CUST-0896,"Vargas, Johnson and Taylor",Mid-Market,Enterprise,558.47,2023-09-18,2024-11-21,churned,France,HR Tech
+CUST-0897,Lewis Group,SMB,Basic,180.85,2023-10-21,2024-01-02,churned,Netherlands,E-commerce
+CUST-0898,Byrd Ltd,Enterprise,Pro,4011.05,2023-05-27,,active,France,HR Tech
+CUST-0899,"Elliott, Wall and Wells",Mid-Market,Pro,416.93,2024-02-05,,active,United Kingdom,EdTech
+CUST-0900,Williams-Martin,Enterprise,Pro,1463.98,2024-11-03,,active,Singapore,EdTech
+CUST-0901,Hebert-Taylor,Mid-Market,Basic,962.83,2024-02-04,,active,Australia,Marketing
+CUST-0902,"Howell, Dunn and Cunningham",Mid-Market,Basic,401.46,2023-08-20,,active,India,HR Tech
+CUST-0903,Sims LLC,SMB,Basic,127.92,2024-05-02,2024-06-11,churned,UAE,Logistics
+CUST-0904,"Lee, Cardenas and Hamilton",Freemium,Pro,21.16,2023-07-19,2024-10-30,churned,Canada,EdTech
+CUST-0905,Diaz Ltd,SMB,Pro,73.57,2024-05-17,2024-09-24,churned,France,Healthcare
+CUST-0906,Hicks and Sons,Mid-Market,Pro,773.72,2024-10-08,,active,UAE,SaaS
+CUST-0907,Curry-Woods,Mid-Market,Enterprise,881.35,2023-03-24,2023-08-01,churned,United States,HR Tech
+CUST-0908,Weeks Ltd,SMB,Basic,230.31,2023-06-13,2023-08-16,churned,Netherlands,Fintech
+CUST-0909,Davis-Ruiz,SMB,Basic,197.53,2024-06-18,,active,Netherlands,Fintech
+CUST-0910,Whitehead-Newman,Mid-Market,Basic,383.86,2024-04-24,,active,Australia,E-commerce
+CUST-0911,Elliott PLC,Enterprise,Pro,3782.61,2024-06-29,,active,United States,HR Tech
+CUST-0912,Novak-Dillon,Freemium,Pro,13.54,2024-06-04,2024-12-21,churned,India,E-commerce
+CUST-0913,Harper PLC,Enterprise,Pro,2109.15,2023-10-15,2024-05-30,churned,United Kingdom,EdTech
+CUST-0914,"Moore, Ford and Lewis",Freemium,Basic,12.97,2023-11-14,2024-08-21,churned,Netherlands,Marketing
+CUST-0915,"Rodriguez, Bowers and Martinez",SMB,Pro,172.01,2024-05-19,2024-12-31,churned,France,Fintech
+CUST-0916,Brown LLC,Freemium,Basic,35.05,2023-07-09,2023-10-21,churned,Netherlands,EdTech
+CUST-0917,Ramirez-Smith,Enterprise,Enterprise,1075.06,2023-07-06,,active,United Kingdom,SaaS
+CUST-0918,Hopkins-Ruiz,Mid-Market,Pro,486.24,2024-04-12,,active,Netherlands,SaaS
+CUST-0919,Park PLC,Mid-Market,Pro,957.0,2023-04-08,,active,Australia,Fintech
+CUST-0920,Waters-Martin,Mid-Market,Pro,302.31,2023-11-21,,active,United States,Logistics
+CUST-0921,Rivera-Cook,SMB,Pro,124.71,2024-07-02,2024-08-24,churned,UAE,Logistics
+CUST-0922,"Murphy, Watson and Mckee",SMB,Basic,163.91,2024-06-11,2024-12-23,churned,Germany,SaaS
+CUST-0923,Everett-Bailey,Freemium,Basic,32.38,2023-07-13,2024-02-27,churned,Canada,HR Tech
+CUST-0924,Ortiz Inc,SMB,Basic,207.2,2024-01-28,2024-05-08,churned,France,SaaS
+CUST-0925,Gardner-Little,Mid-Market,Basic,714.47,2024-11-06,,active,UAE,EdTech
+CUST-0926,Green-Medina,Mid-Market,Basic,974.5,2023-08-15,,active,United Kingdom,Logistics
+CUST-0927,Bryant-Newman,SMB,Basic,245.94,2024-09-10,2024-10-25,churned,UAE,HR Tech
+CUST-0928,"Mann, Jenkins and Benjamin",Freemium,Basic,42.64,2024-06-18,2024-12-13,churned,United States,SaaS
+CUST-0929,Clark and Sons,Mid-Market,Basic,641.74,2023-12-13,2024-11-23,churned,France,E-commerce
+CUST-0930,Lopez Group,SMB,Basic,207.17,2024-05-18,,active,Singapore,E-commerce
+CUST-0931,Jackson LLC,Enterprise,Basic,1255.83,2023-10-12,,active,Singapore,Healthcare
+CUST-0932,Williams PLC,SMB,Enterprise,99.66,2024-11-08,2024-12-31,churned,Australia,Logistics
+CUST-0933,Jones-Waters,SMB,Basic,220.02,2023-05-08,2024-05-01,churned,United Kingdom,E-commerce
+CUST-0934,Duncan-Delgado,SMB,Basic,79.19,2024-02-08,2024-10-07,churned,Canada,E-commerce
+CUST-0935,Green-Spears,SMB,Enterprise,280.42,2024-04-13,2024-06-07,churned,Netherlands,Marketing
+CUST-0936,Dean PLC,Enterprise,Basic,1062.52,2023-11-16,,active,United Kingdom,E-commerce
+CUST-0937,Morales LLC,Freemium,Pro,34.63,2023-06-19,2024-05-04,churned,Singapore,E-commerce
+CUST-0938,Preston PLC,SMB,Basic,208.96,2024-03-13,2024-11-08,churned,Germany,SaaS
+CUST-0939,Grant-Howard,Mid-Market,Basic,801.32,2024-10-14,,active,India,Logistics
+CUST-0940,Long LLC,SMB,Basic,188.43,2024-06-13,2024-11-25,churned,Netherlands,Logistics
+CUST-0941,Castillo-Davidson,Enterprise,Pro,4947.13,2024-11-13,,active,France,EdTech
+CUST-0942,Tucker Group,SMB,Pro,77.17,2023-02-07,2024-07-06,churned,Germany,E-commerce
+CUST-0943,Edwards LLC,Mid-Market,Pro,330.14,2023-09-19,,active,France,Marketing
+CUST-0944,Stewart Ltd,SMB,Pro,203.2,2023-03-30,,active,United Kingdom,Fintech
+CUST-0945,"Brooks, Bradley and Douglas",Mid-Market,Pro,946.48,2024-02-26,2024-04-10,churned,UAE,Fintech
+CUST-0946,Miller-Rodriguez,SMB,Pro,107.82,2023-02-02,2024-10-17,churned,Australia,Healthcare
+CUST-0947,Steele-Blair,Mid-Market,Pro,927.96,2023-10-15,2024-01-09,churned,France,Fintech
+CUST-0948,"Jenkins, Hatfield and Villarreal",SMB,Basic,152.15,2023-04-03,2023-12-14,churned,Singapore,HR Tech
+CUST-0949,Hughes-Lopez,SMB,Basic,157.97,2023-06-04,2024-10-11,churned,Australia,Logistics
+CUST-0950,"Harris, Leonard and Fuentes",SMB,Basic,228.96,2023-09-09,2024-02-24,churned,Canada,E-commerce
+CUST-0951,Webster Inc,SMB,Pro,191.17,2023-08-30,2023-11-24,churned,Singapore,Marketing
+CUST-0952,Orozco Ltd,SMB,Enterprise,134.89,2024-08-25,,active,Germany,E-commerce
+CUST-0953,Fitzgerald-Mckenzie,Mid-Market,Enterprise,686.38,2023-10-22,2024-06-18,churned,Singapore,Healthcare
+CUST-0954,"Price, Johnson and Brown",Mid-Market,Enterprise,885.06,2024-10-30,2024-12-26,churned,France,Healthcare
+CUST-0955,"Rodriguez, Paul and Gallagher",SMB,Enterprise,193.87,2024-03-11,,active,Germany,SaaS
+CUST-0956,"Horton, Rasmussen and Chambers",SMB,Enterprise,60.06,2024-08-30,,active,UAE,SaaS
+CUST-0957,Johnston-Cook,SMB,Basic,147.58,2023-08-23,2024-09-12,churned,Singapore,HR Tech
+CUST-0958,Ware LLC,SMB,Basic,188.62,2024-11-11,2024-12-24,churned,Germany,Logistics
+CUST-0959,"Harrison, Kent and Nash",SMB,Enterprise,210.91,2023-03-22,2024-08-24,churned,India,E-commerce
+CUST-0960,Valenzuela-Miller,Mid-Market,Basic,899.69,2024-02-11,,active,Singapore,HR Tech
+CUST-0961,Jackson-Gilbert,Enterprise,Pro,4496.8,2023-03-07,,active,Singapore,SaaS
+CUST-0962,Barrett-Allison,Enterprise,Pro,1282.79,2024-08-12,,active,UAE,SaaS
+CUST-0963,"Gould, Mendoza and Holloway",SMB,Enterprise,237.22,2024-11-09,2024-12-28,churned,Netherlands,Healthcare
+CUST-0964,Mitchell-Smith,Enterprise,Enterprise,1323.84,2024-03-22,,active,United Kingdom,Logistics
+CUST-0965,Li Ltd,Enterprise,Enterprise,1443.87,2024-02-05,,active,United Kingdom,Logistics
+CUST-0966,West Ltd,SMB,Enterprise,211.04,2023-11-28,2024-10-10,churned,France,E-commerce
+CUST-0967,Fischer Ltd,Freemium,Enterprise,11.69,2023-11-01,2024-08-01,churned,Netherlands,Healthcare
+CUST-0968,"Lynn, Roy and Johnson",Enterprise,Pro,4043.54,2023-03-19,,active,UAE,Marketing
+CUST-0969,Armstrong and Sons,SMB,Enterprise,64.84,2024-04-08,2024-09-09,churned,UAE,Fintech
+CUST-0970,"Hill, Booth and Benson",Mid-Market,Pro,671.8,2023-11-29,,active,Singapore,Logistics
+CUST-0971,Lopez LLC,Enterprise,Basic,4781.46,2024-01-18,,active,France,HR Tech
+CUST-0972,"Ayala, Hernandez and Golden",SMB,Basic,146.67,2023-02-24,2023-06-12,churned,Germany,EdTech
+CUST-0973,Jones-Cannon,SMB,Enterprise,85.99,2024-10-24,2024-12-06,churned,United Kingdom,EdTech
+CUST-0974,Turner-Hammond,SMB,Pro,219.6,2024-09-01,,active,Canada,Marketing
+CUST-0975,"Sutton, Klein and Washington",SMB,Basic,210.17,2024-01-04,2024-03-06,churned,France,Logistics
+CUST-0976,"Walker, Davis and Dunn",SMB,Pro,134.7,2023-07-14,2024-01-27,churned,Netherlands,HR Tech
+CUST-0977,"Knight, Smith and Martin",Mid-Market,Pro,696.51,2024-11-12,,active,Germany,EdTech
+CUST-0978,Fuller-Ross,SMB,Basic,141.98,2023-05-02,2023-07-19,churned,Canada,EdTech
+CUST-0979,Gibson-Craig,Mid-Market,Enterprise,416.29,2023-05-31,,active,UAE,EdTech
+CUST-0980,Johnson Inc,SMB,Basic,92.84,2023-12-14,2024-12-19,churned,Germany,Healthcare
+CUST-0981,Benson and Sons,SMB,Pro,297.44,2024-04-18,2024-09-07,churned,Canada,E-commerce
+CUST-0982,"Johnson, Huff and Miller",SMB,Basic,225.78,2023-07-22,2024-02-13,churned,Canada,HR Tech
+CUST-0983,Smith-Boyer,Mid-Market,Pro,413.66,2023-11-22,2024-01-03,churned,Singapore,E-commerce
+CUST-0984,Kirby-White,Freemium,Enterprise,45.46,2023-09-12,2024-10-24,churned,UAE,Logistics
+CUST-0985,Johnson PLC,Mid-Market,Enterprise,506.59,2023-01-01,,active,Germany,HR Tech
+CUST-0986,"Wall, Freeman and Hutchinson",SMB,Basic,77.08,2023-02-02,2023-04-14,churned,UAE,Fintech
+CUST-0987,Robinson-Montgomery,SMB,Pro,149.41,2024-05-09,2024-09-30,churned,United States,Logistics
+CUST-0988,Little LLC,SMB,Pro,209.33,2023-09-17,2024-02-07,churned,France,SaaS
+CUST-0989,Jacobs-Noble,SMB,Enterprise,261.36,2024-07-19,2024-09-09,churned,Australia,Healthcare
+CUST-0990,"Mcintyre, Cannon and Harris",Mid-Market,Basic,721.62,2023-10-30,,active,Canada,Marketing
+CUST-0991,Williams-Anderson,SMB,Basic,262.45,2023-11-11,2024-06-18,churned,India,Logistics
+CUST-0992,Alexander-Gamble,SMB,Basic,293.38,2023-06-26,,active,France,HR Tech
+CUST-0993,Turner Group,Mid-Market,Enterprise,590.51,2023-06-16,2023-12-30,churned,Australia,Marketing
+CUST-0994,"Carter, Perkins and Reynolds",SMB,Pro,195.8,2023-04-16,2023-12-14,churned,Singapore,Logistics
+CUST-0995,"Butler, Mcfarland and Lee",SMB,Basic,289.02,2023-12-10,2024-02-23,churned,Australia,EdTech
+CUST-0996,"Morris, Dickerson and Henderson",SMB,Basic,187.95,2023-03-26,2023-09-12,churned,Germany,Marketing
+CUST-0997,Burns-Campos,SMB,Enterprise,171.65,2024-10-11,2024-11-29,churned,India,HR Tech
+CUST-0998,"Mckinney, Ayers and Meyer",Mid-Market,Basic,623.95,2024-01-08,2024-02-08,churned,India,EdTech
+CUST-0999,Thomas-Hart,Freemium,Enterprise,40.88,2023-08-20,2024-08-18,churned,India,Marketing
+CUST-1000,Delgado Inc,SMB,Basic,275.7,2024-05-18,2024-06-24,churned,India,HR Tech
